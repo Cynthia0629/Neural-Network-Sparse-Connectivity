@@ -1,0 +1,4266 @@
+Optimising with Parameters: 
+ sparsity: 10.0| reg_C: 1.0| reg_W: 1.0| trad: 1.0
+ At iteration0|| Error:array([39675.184], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([39672.934], dtype=float32)
+
+At B iteration 1|| Error:array([39670.855], dtype=float32)
+
+At B iteration 2|| Error:array([39668.84], dtype=float32)
+
+At B iteration 3|| Error:array([39666.844], dtype=float32)
+
+At B iteration 4|| Error:array([39664.844], dtype=float32)
+
+At B iteration 5|| Error:array([39662.863], dtype=float32)
+
+At B iteration 6|| Error:array([39660.887], dtype=float32)
+
+At B iteration 7|| Error:array([39658.92], dtype=float32)
+
+At B iteration 8|| Error:array([39656.965], dtype=float32)
+
+At B iteration 9|| Error:array([39655.01], dtype=float32)
+
+At B iteration 10|| Error:array([39653.07], dtype=float32)
+
+At B iteration 11|| Error:array([39651.137], dtype=float32)
+
+At B iteration 12|| Error:array([39649.21], dtype=float32)
+
+At B iteration 13|| Error:array([39647.293], dtype=float32)
+
+At B iteration 14|| Error:array([39645.383], dtype=float32)
+
+At B iteration 15|| Error:array([39643.48], dtype=float32)
+
+At B iteration 16|| Error:array([39641.586], dtype=float32)
+
+At B iteration 17|| Error:array([39639.703], dtype=float32)
+
+At B iteration 18|| Error:array([39637.824], dtype=float32)
+
+At B iteration 19|| Error:array([39635.953], dtype=float32)
+
+At B iteration 20|| Error:array([39634.09], dtype=float32)
+
+At B iteration 21|| Error:array([39632.24], dtype=float32)
+
+At B iteration 22|| Error:array([39630.39], dtype=float32)
+
+At B iteration 23|| Error:array([39628.55], dtype=float32)
+
+At B iteration 24|| Error:array([39626.72], dtype=float32)
+
+At B iteration 25|| Error:array([39624.895], dtype=float32)
+
+At B iteration 26|| Error:array([39623.08], dtype=float32)
+
+At B iteration 27|| Error:array([39621.27], dtype=float32)
+
+At B iteration 28|| Error:array([39619.47], dtype=float32)
+
+At B iteration 29|| Error:array([39617.676], dtype=float32)
+
+At B iteration 30|| Error:array([39615.89], dtype=float32)
+
+At B iteration 31|| Error:array([39614.11], dtype=float32)
+
+At B iteration 32|| Error:array([39612.344], dtype=float32)
+
+At B iteration 33|| Error:array([39610.574], dtype=float32)
+
+At B iteration 34|| Error:array([39608.816], dtype=float32)
+
+At B iteration 35|| Error:array([39607.07], dtype=float32)
+
+At B iteration 36|| Error:array([39605.33], dtype=float32)
+
+At B iteration 37|| Error:array([39603.594], dtype=float32)
+
+At B iteration 38|| Error:array([39601.867], dtype=float32)
+
+At B iteration 39|| Error:array([39600.145], dtype=float32)
+
+At B iteration 40|| Error:array([39598.434], dtype=float32)
+
+At B iteration 41|| Error:array([39596.727], dtype=float32)
+
+At B iteration 42|| Error:array([39595.03], dtype=float32)
+
+At B iteration 43|| Error:array([39593.336], dtype=float32)
+
+At B iteration 44|| Error:array([39591.65], dtype=float32)
+
+At B iteration 45|| Error:array([39589.973], dtype=float32)
+
+At B iteration 46|| Error:array([39588.305], dtype=float32)
+
+At B iteration 47|| Error:array([39586.64], dtype=float32)
+
+At B iteration 48|| Error:array([39584.984], dtype=float32)
+
+At B iteration 49|| Error:array([39583.336], dtype=float32)
+
+At B iteration 50|| Error:array([39581.688], dtype=float32)
+
+At B iteration 51|| Error:array([39580.055], dtype=float32)
+
+At B iteration 52|| Error:array([39578.426], dtype=float32)
+
+At B iteration 53|| Error:array([39576.8], dtype=float32)
+
+At B iteration 54|| Error:array([39575.188], dtype=float32)
+
+At B iteration 55|| Error:array([39573.58], dtype=float32)
+
+At B iteration 56|| Error:array([39571.973], dtype=float32)
+
+At B iteration 57|| Error:array([39570.38], dtype=float32)
+
+At B iteration 58|| Error:array([39568.79], dtype=float32)
+
+At B iteration 59|| Error:array([39567.203], dtype=float32)
+
+At B iteration 60|| Error:array([39565.633], dtype=float32)
+
+At B iteration 61|| Error:array([39564.062], dtype=float32)
+
+At B iteration 62|| Error:array([39562.5], dtype=float32)
+
+At B iteration 63|| Error:array([39560.945], dtype=float32)
+
+At B iteration 64|| Error:array([39559.4], dtype=float32)
+
+At B iteration 65|| Error:array([39557.85], dtype=float32)
+
+At B iteration 66|| Error:array([39556.3ukeylambda_stats, scipy.linalg._sketches, scipy.optimize._trustregion_constr.equality_constrained_sqp, scipy.interpolate.polyint, scipy.stats.kde, scipy.optimize._trustregion, scipy.spatial.qhull, scipy.spatial, scipy.linalg.misc, scipy.sparse.csgraph._tools, scipy.interpolate.dfitpack, scipy.io.matlab, scipy.linalg._flinalg, scipy, scipy.special._ellip_harm, sklearn.externals.joblib.format_stack, scipy.io.matlab.byteordercodes, scipy.interpolate._bsplines, scipy.integrate.lsoda, scipy.optimize._trustregion_constr.minimize_trustregion_constr, scipy.io.netcdf, scipy.integrate._ivp, sklearn.utils.sparsefuncs_fast, scipy.stats._stats, scipy.optimize._trustregion_krylov, scipy.sparse.linalg.eigen.lobpcg, scipy.linalg.basic, sklearn.externals.joblib.memory, scipy.optimize._lsq.trf_linear, scipy.sparse.linalg.isolve.lgmres, scipy.sparse.csgraph._traversal, scipy.sparse.extract, scipy.optimize._trustregion_exact, scipy.optimize._lsq.givens_elimination, sklearn.utils.validation, scipy.integrate.vode, scipy.optimize._group_columns, scipy.io.matlab.mio4, scipy.io.matlab.mio5, scipy.interpolate.ndgriddata, scipy.linalg.decomp_lu, scipy.sparse.base, scipy.integrate.odepack, scipy.optimize.nnls, scipy.integrate._ivp.rk, sklearn.base, scipy._distributor_init, sklearn.externals.joblib.logger, scipy.misc.common, scipy.sparse.linalg, scipy.linalg._procrustes, scipy.linalg._decomp_qz, scipy.optimize._trustregion_constr.projections, scipy.sparse.linalg.interface, sklearn.externals.joblib.backports, scipy.optimize, sklearn.externals.joblib, sklearn.preprocessing.data, scipy.optimize.optimize, scipy.spatial._distance_wrap, scipy.spatial._hausdorff, scipy.integrate._ivp.lsoda, scipy.misc.pilutil, scipy.optimize._basinhopping, scipy.optimize._trlib, scipy.sparse.linalg.dsolve, sklearn.externals.joblib.numpy_pickle_compat, sklearn.externals.joblib.numpy_pickle_utils, scipy.io.harwell_boeing, scipy.io.matlab.mio5_utils, scipy.special._comb, scipy.stats._distn_infrastructure, scipy._lib, scipy.optimize._trustregion_constr.report, scipy.linalg.decomp, scipy.optimize.tnc, scipy.sparse.linalg._expm_multiply, numpy.dual, scipy.sparse.linalg.eigen.arpack.arpack, scipy.io.matlab.mio_utils, scipy._lib.six, scipy.optimize._trustregion_constr.qp_subproblem, scipy.sparse.compressed, sklearn.externals.joblib.disk, scipy.sparse.linalg.isolve.iterative, scipy.linalg.special_matrices, scipy.stats.mvn, scipy.linalg, scipy.integrate._ivp.radau, scipy.spatial._voronoi, scipy.optimize.moduleTNC, scipy.io.mmio, scipy.optimize._trustregion_dogleg, scipy.integrate, scipy._lib._ccallback_c, scipy.io.matlab.mio, scipy.optimize.nonlin, scipy.sparse.linalg.eigen.lobpcg.lobpcg, sklearn.externals.joblib._compat, scipy.stats, scipy.stats._continuous_distns, scipy.integrate._ivp.common, sklearn.utils, scipy.optimize._nnls, scipy.sparse.sputils, scipy.io._fortran, scipy.optimize._differentiable_functions, scipy.sparse.data, scipy.sparse.linalg.isolve._gcrotmk, scipy.io.matlab.mio5_params, scipy.optimize._lsq.dogbox, scipy.linalg.matfuncs, sklearn.utils.extmath, scipy.sparse.linalg.dsolve._superlu, scipy.integrate._bvp, scipy.integrate._quadpack, scipy.interpolate.interpnd, scipy.sparse.linalg.isolve.lsmr, scipy.sparse.dok, sklearn.externals.joblib._parallel_backends, scipy.optimize._lsq.common, scipy.optimize._differentialevolution, scipy.optimize._hungarian, scipy.io.harwell_boeing._fortran_format_parser, scipy.io, scipy.linalg.flinalg, scipy.sparse.linalg.dsolve._add_newdocs, scipy.sparse.csgraph._shortest_path, scipy.optimize._numdiff, scipy._lib.decorator, scipy.spatial._plotutils, scipy.integrate._ivp.ivp, sklearn.utils.deprecation, scipy.version, scipy.optimize._trustregion_constr.canonical_constraint, scipy.optimize._trustregion_constr, sklearn.externals.funcsigs, sklearn.externals, scipy.special.sf_error, scipy.optimize._lsq, scipy.optimize._lsq.bvls, scipy._lib._numpy_compat, scipy.io.harwell_boeing.hb[0m
+|| Error:array([18063.504], dtype=float32)
+
+At B iteration 5|| Error:array([18062.312], dtype=float32)
+
+At B iteration 6|| Error:array([18061.137], dtype=float32)
+
+At B iteration 7|| Error:array([18059.969], dtype=float32)
+
+At B iteration 8|| Error:array([18058.816], dtype=float32)
+
+At B iteration 9|| Error:array([18057.672], dtype=float32)
+
+At B iteration 10|| Error:array([18056.543], dtype=float32)
+
+At B iteration 11|| Error:array([18055.422], dtype=float32)
+
+At B iteration 12|| Error:array([18054.316], dtype=float32)
+
+At B iteration 13|| Error:array([18053.219], dtype=float32)
+
+At B iteration 14|| Error:array([18052.137], dtype=float32)
+
+At B iteration 15|| Error:array([18051.059], dtype=float32)
+
+At B iteration 16|| Error:array([18049.996], dtype=float32)
+
+At B iteration 17|| Error:array([18048.945], dtype=float32)
+
+At B iteration 18|| Error:array([18047.902], dtype=float32)
+
+At B iteration 19|| Error:array([18046.867], dtype=float32)
+
+At B iteration 20|| Error:array([18045.85], dtype=float32)
+
+At B iteration 21|| Error:array([18044.836], dtype=float32)
+
+At B iteration 22|| Error:array([18043.834], dtype=float32)
+
+At B iteration 23|| Error:array([18042.844], dtype=float32)
+
+At B iteration 24|| Error:array([18041.863], dtype=float32)
+
+At B iteration 25|| Error:array([18040.895], dtype=float32)
+
+At B iteration 26|| Error:array([18039.934], dtype=float32)
+
+At B iteration 27|| Error:array([18038.98], dtype=float32)
+
+At B iteration 28|| Error:array([18038.037], dtype=float32)
+
+At B iteration 29|| Error:array([18037.105], dtype=float32)
+
+At B iteration 30|| Error:array([18036.18], dtype=float32)
+
+At B iteration 31|| Error:array([18035.266], dtype=float32)
+
+At B iteration 32|| Error:array([18034.36], dtype=float32)
+
+At B iteration 33|| Error:array([18033.465], dtype=float32)
+
+At B iteration 34|| Error:array([18032.578], dtype=float32)
+
+At B iteration 35|| Error:array([18031.703], dtype=float32)
+
+At B iteration 36|| Error:array([18030.836], dtype=float32)
+
+At B iteration 37|| Error:array([18029.977], dtype=float32)
+
+At B iteration 38|| Error:array([18029.127], dtype=float32)
+
+At B iteration 39|| Error:array([18028.285], dtype=float32)
+
+At B iteration 40|| Error:array([18027.451], dtype=float32)
+
+At B iteration 41|| Error:array([18026.623], dtype=float32)
+
+At B iteration 42|| Error:array([18025.809], dtype=float32)
+
+At B iteration 43|| Error:array([18025.], dtype=float32)
+
+At B iteration 44|| Error:array([18024.195], dtype=float32)
+
+At B iteration 45|| Error:array([18023.402], dtype=float32)
+
+At B iteration 46|| Error:array([18022.615], dtype=float32)
+
+At B iteration 47|| Error:array([18021.84], dtype=float32)
+
+At B iteration 48|| Error:array([18021.068], dtype=float32)
+
+At B iteration 49|| Error:array([18020.305], dtype=float32)
+
+At B iteration 50|| Error:array([18019.55], dtype=float32)
+
+At B iteration 51|| Error:array([18018.8], dtype=float32)
+
+At B iteration 52|| Error:array([18018.059], dtype=float32)
+
+At B iteration 53|| Error:array([18017.328], dtype=float32)
+
+At B iteration 54|| Error:array([18016.602], dtype=float32)
+
+At B iteration 55|| Error:array([18015.885], dtype=float32)
+
+At B iteration 56|| Error:array([18015.172], dtype=float32)
+
+At B iteration 57|| Error:array([18014.465], dtype=float32)
+
+At B iteration 58|| Error:array([18013.766], dtype=float32)
+
+At B iteration 59|| Error:array([18013.074], dtype=float32)
+
+At B iteration 60|| Error:array([18012.39], dtype=float32)
+
+At B iteration 61|| Error:array([18011.707], dtype=float32)
+
+At B iteration 62|| Error:array([18011.04], dtype=float32)
+
+At B iteration 63|| Error:array([18010.375], dtype=float32)
+
+At B iteration 64|| Error:array([18009.713], dtype=float32)
+
+At B iteration 65|| Error:array([18009.062], dtype=float32)
+
+At B iteration 66|| Error:array([18008.416], dtype=float32)
+
+At B iteration 67|| Error:array([18007.773], dtype=float32)
+
+At B iteration 68|| Error:array([18007.14], dtype=float32)
+
+At B iteration 69|| Error:array([18006.514], dtype=float32)
+
+At B iteration 70|| Error:array([18005.893], dtype=float32)
+
+At B iteration 71|| Error:array([18005.275], dtype=float32)
+
+At B iteration 72|| Error:array([18004.664], dtype=float32)
+
+At B iteration 73|| Error:array([18004.06], dtype=float32)
+
+At B iteration 74|| Error:array([18003.46], dtype=float32)
+
+At B iteration 75|| Error:array([18002.867], dtype=float32)
+
+At B iteration 76|| Error:array([18002.281], dtype=float32)
+
+At B iteration 77|| Error:array([18001.701], dtype=float32)
+
+At B iteration 78|| Error:array([18001.125], dtype=float32)
+
+At B iteration 79|| Error:array([18000.555], dtype=float32)
+
+At B iteration 80|| Error:array([17999.986], dtype=float32)
+
+At B iteration 81|| Error:array([17999.43], dtype=float32)
+
+At B iteration 82|| Error:array([17998.873], dtype=float32)
+
+At B iteration 83|| Error:array([17998.324], dtype=float32)
+
+At B iteration 84|| Error:array([17997.781], dtype=float32)
+
+At B iteration 85|| Error:array([17997.242], dtype=float32)
+
+At B iteration 86|| Error:array([17996.707], dtype=float32)
+
+At B iteration 87|| Error:array([17996.178], dtype=float32)
+
+At B iteration 88|| Error:array([17995.654], dtype=float32)
+
+At B iteration 89|| Error:array([17995.137], dtype=float32)
+
+At B iteration 90|| Error:array([17994.621], dtype=float32)
+
+At B iteration 91|| Error:array([17994.113], dtype=float32)
+
+At B iteration 92|| Error:array([17993.61], dtype=float32)
+
+At B iteration 93|| Error:array([17993.105], dtype=float32)
+
+At B iteration 94|| Error:array([17992.613], dtype=float32)
+
+At B iteration 95|| Error:array([17992.125], dtype=float32)
+
+At B iteration 96|| Error:array([17991.639], dtype=float32)
+
+At B iteration 97|| Error:array([17991.156], dtype=float32)
+
+At B iteration 98|| Error:array([17990.68], dtype=float32)
+
+At B iteration 99|| Error:array([17990.207], dtype=float32)
+
+ At final B iteration || Error: array([17990.207], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([15717.639], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([14864.166], dtype=float32)
+
+ Step D and lambda || Error: array([14858.742], dtype=float32)
+
+ At iteration2|| Error:array([14858.742], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([14858.098], dtype=float32)
+
+At B iteration 1|| Error:array([14857.453], dtype=float32)
+
+At B iteration 2|| Error:array([14856.82], dtype=float32)
+
+At B iteration 3|| Error:array([14856.189], dtype=float32)
+
+At B iteration 4|| Error:array([14855.561], dtype=float32)
+
+At B iteration 5|| Error:array([14854.941], dtype=float32)
+
+At B iteration 6|| Error:array([14854.324], dtype=float32)
+
+At B iteration 7|| Error:array([14853.717], dtype=float32)
+
+At B iteration 8|| Error:array([14853.111], dtype=float32)
+
+At B iteration 9|| Error:array([14852.514], dtype=float32)
+
+At B iteration 10|| Error:array([14851.92], dtype=float32)
+
+At B iteration 11|| Error:array([14851.328], dtype=float32)
+
+At B iteration 12|| Error:array([14850.746], dtype=float32)
+
+At B iteration 13|| Error:array([14850.168], dtype=float32)
+
+At B iteration 14|| Error:array([14849.592], dtype=float32)
+
+At B iteration 15|| Error:array([14849.023], dtype=float32)
+
+At B iteration 16|| Error:array([14848.459], dtype=float32)
+
+At B iteration 17|| Error:array([14847.898], dtype=float32)
+
+At B iteration 18|| Error:array([14847.346], dtype=float32)
+
+At B iteration 19|| Error:array([14846.795], dtype=float32)
+
+At B iteration 20|| Error:array([14846.25], dtype=float32)
+
+At B iteration 21|| Error:array([14845.711], dtype=float32)
+
+At B iteration 22|| Error:array([14845.174], dtype=float32)
+
+At B iteration 23|| Error:array([14844.646], dtype=float32)
+
+At B iteration 24|| Error:array([14844.119], dtype=float32)
+
+At B iteration 25|| Error:array([14843.598], dtype=float32)
+
+At B iteration 26|| Error:array([14843.078], dtype=float32)
+
+At B iteration 27|| Error:array([14842.566], dtype=float32)
+
+At B iteration 28|| Error:array([14842.057], dtype=float32)
+
+At B iteration 29|| Error:array([14841.553], dtype=float32)
+
+At B iteration 30|| Error:array([14841.051], dtype=float32)
+
+At B iteration 31|| Error:array([14840.555], dtype=float32)
+
+At B iteration 32|| Error:array([14840.0625], dtype=float32)
+
+At B iteration 33|| Error:array([14839.574], dtype=float32)
+
+At B iteration 34|| Error:array([14839.096], dtype=float32)
+
+At B iteration 35|| Error:array([14838.613], dtype=float32)
+
+At B iteration 36|| Error:array([14838.139], dtype=float32)
+
+At B iteration 37|| Error:array([14837.668], dtype=float32)
+
+At B iteration 38|| Error:array([14837.199], dtype=float32)
+
+At B iteration 39|| Error:array([14836.736], dtype=float32)
+
+At B iteration 40|| Error:array([14836.275], dtype=float32)
+
+At B iteration 41|| Error:array([14835.82], dtype=float32)
+
+At B iteration 42|| Error:array([14835.369], dtype=float32)
+
+At B iteraukeylambda_stats, scipy.linalg._sketches, scipy.optimize._trustregion_constr.equality_constrained_sqp, scipy.interpolate.polyint, scipy.stats.kde, scipy.optimize._trustregion, scipy.spatial.qhull, scipy.spatial, scipy.linalg.misc, scipy.sparse.csgraph._tools, scipy.interpolate.dfitpack, scipy.io.matlab, scipy.linalg._flinalg, scipy, scipy.special._ellip_harm, sklearn.externals.joblib.format_stack, scipy.io.matlab.byteordercodes, scipy.interpolate._bsplines, scipy.integrate.lsoda, scipy.optimize._trustregion_constr.minimize_trustregion_constr, scipy.io.netcdf, scipy.integrate._ivp, sklearn.utils.sparsefuncs_fast, scipy.stats._stats, scipy.optimize._trustregion_krylov, scipy.sparse.linalg.eigen.lobpcg, scipy.linalg.basic, sklearn.externals.joblib.memory, scipy.optimize._lsq.trf_linear, scipy.sparse.linalg.isolve.lgmres, scipy.sparse.csgraph._traversal, scipy.sparse.extract, scipy.optimize._trustregion_exact, scipy.optimize._lsq.givens_elimination, sklearn.utils.validation, scipy.integrate.vode, scipy.optimize._group_columns, scipy.io.matlab.mio4, scipy.io.matlab.mio5, scipy.interpolate.ndgriddata, scipy.linalg.decomp_lu, scipy.sparse.base, scipy.integrate.odepack, scipy.optimize.nnls, scipy.integrate._ivp.rk, sklearn.base, scipy._distributor_init, sklearn.externals.joblib.logger, scipy.misc.common, scipy.sparse.linalg, scipy.linalg._procrustes, scipy.linalg._decomp_qz, scipy.optimize._trustregion_constr.projections, scipy.sparse.linalg.interface, sklearn.externals.joblib.backports, scipy.optimize, sklearn.externals.joblib, sklearn.preprocessing.data, scipy.optimize.optimize, scipy.spatial._distance_wrap, scipy.spatial._hausdorff, scipy.integrate._ivp.lsoda, scipy.misc.pilutil, scipy.optimize._basinhopping, scipy.optimize._trlib, scipy.sparse.linalg.dsolve, sklearn.externals.joblib.numpy_pickle_compat, sklearn.externals.joblib.numpy_pickle_utils, scipy.io.harwell_boeing, scipy.io.matlab.mio5_utils, scipy.special._comb, scipy.stats._distn_infrastructure, scipy._lib, scipy.optimize._trustregion_constr.report, scipy.linalg.decomp, scipy.optimize.tnc, scipy.sparse.linalg._expm_multiply, numpy.dual, scipy.sparse.linalg.eigen.arpack.arpack, scipy.io.matlab.mio_utils, scipy._lib.six, scipy.optimize._trustregion_constr.qp_subproblem, scipy.sparse.compressed, sklearn.externals.joblib.disk, scipy.sparse.linalg.isolve.iterative, scipy.linalg.special_matrices, scipy.stats.mvn, scipy.linalg, scipy.integrate._ivp.radau, scipy.spatial._voronoi, scipy.optimize.moduleTNC, scipy.io.mmio, scipy.optimize._trustregion_dogleg, scipy.integrate, scipy._lib._ccallback_c, scipy.io.matlab.mio, scipy.optimize.nonlin, scipy.sparse.linalg.eigen.lobpcg.lobpcg, sklearn.externals.joblib._compat, scipy.stats, scipy.stats._continuous_distns, scipy.integrate._ivp.common, sklearn.utils, scipy.optimize._nnls, scipy.sparse.sputils, scipy.io._fortran, scipy.optimize._differentiable_functions, scipy.sparse.data, scipy.sparse.linalg.isolve._gcrotmk, scipy.io.matlab.mio5_params, scipy.optimize._lsq.dogbox, scipy.linalg.matfuncs, sklearn.utils.extmath, scipy.sparse.linalg.dsolve._superlu, scipy.integrate._bvp, scipy.integrate._quadpack, scipy.interpolate.interpnd, scipy.sparse.linalg.isolve.lsmr, scipy.sparse.dok, sklearn.externals.joblib._parallel_backends, scipy.optimize._lsq.common, scipy.optimize._differentialevolution, scipy.optimize._hungarian, scipy.io.harwell_boeing._fortran_format_parser, scipy.io, scipy.linalg.flinalg, scipy.sparse.linalg.dsolve._add_newdocs, scipy.sparse.csgraph._shortest_path, scipy.optimize._numdiff, scipy._lib.decorator, scipy.spatial._plotutils, scipy.integrate._ivp.ivp, sklearn.utils.deprecation, scipy.version, scipy.optimize._trustregion_constr.canonical_constraint, scipy.optimize._trustregion_constr, sklearn.externals.funcsigs, sklearn.externals, scipy.special.sf_error, scipy.optimize._lsq, scipy.optimize._lsq.bvls, scipy._lib._numpy_compat, scipy.io.harwell_boeing.hb[0m
+ Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([13525.063], dtype=float32)
+
+ Step D and lambda || Error: array([13520.6], dtype=float32)
+
+ At iteration3|| Error:array([13520.6], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([13520.2], dtype=float32)
+
+At B iteration 1|| Error:array([13519.803], dtype=float32)
+
+At B iteration 2|| Error:array([13519.405], dtype=float32)
+
+At B iteration 3|| Error:array([13519.019], dtype=float32)
+
+At B iteration 4|| Error:array([13518.627], dtype=float32)
+
+At B iteration 5|| Error:array([13518.245], dtype=float32)
+
+At B iteration 6|| Error:array([13517.862], dtype=float32)
+
+At B iteration 7|| Error:array([13517.482], dtype=float32)
+
+At B iteration 8|| Error:array([13517.1045], dtype=float32)
+
+At B iteration 9|| Error:array([13516.732], dtype=float32)
+
+At B iteration 10|| Error:array([13516.362], dtype=float32)
+
+At B iteration 11|| Error:array([13515.993], dtype=float32)
+
+At B iteration 12|| Error:array([13515.626], dtype=float32)
+
+At B iteration 13|| Error:array([13515.266], dtype=float32)
+
+At B iteration 14|| Error:array([13514.907], dtype=float32)
+
+At B iteration 15|| Error:array([13514.548], dtype=float32)
+
+At B iteration 16|| Error:array([13514.196], dtype=float32)
+
+At B iteration 17|| Error:array([13513.844], dtype=float32)
+
+At B iteration 18|| Error:array([13513.496], dtype=float32)
+
+At B iteration 19|| Error:array([13513.147], dtype=float32)
+
+At B iteration 20|| Error:array([13512.808], dtype=float32)
+
+At B iteration 21|| Error:array([13512.468], dtype=float32)
+
+At B iteration 22|| Error:array([13512.128], dtype=float32)
+
+At B iteration 23|| Error:array([13511.794], dtype=float32)
+
+At B iteration 24|| Error:array([13511.46], dtype=float32)
+
+At B iteration 25|| Error:array([13511.131], dtype=float32)
+
+At B iteration 26|| Error:array([13510.803], dtype=float32)
+
+At B iteration 27|| Error:array([13510.476], dtype=float32)
+
+At B iteration 28|| Error:array([13510.155], dtype=float32)
+
+At B iteration 29|| Error:array([13509.836], dtype=float32)
+
+At B iteration 30|| Error:array([13509.517], dtype=float32)
+
+At B iteration 31|| Error:array([13509.201], dtype=float32)
+
+At B iteration 32|| Error:array([13508.888], dtype=float32)
+
+At B iteration 33|| Error:array([13508.576], dtype=float32)
+
+At B iteration 34|| Error:array([13508.268], dtype=float32)
+
+At B iteration 35|| Error:array([13507.963], dtype=float32)
+
+At B iteration 36|| Error:array([13507.659], dtype=float32)
+
+At B iteration 37|| Error:array([13507.357], dtype=float32)
+
+At B iteration 38|| Error:array([13507.06], dtype=float32)
+
+At B iteration 39|| Error:array([13506.762], dtype=float32)
+
+At B iteration 40|| Error:array([13506.464], dtype=float32)
+
+At B iteration 41|| Error:array([13506.173], dtype=float32)
+
+At B iteration 42|| Error:array([13505.883], dtype=float32)
+
+At B iteration 43|| Error:array([13505.597], dtype=float32)
+
+At B iteration 44|| Error:array([13505.309], dtype=float32)
+
+At B iteration 45|| Error:array([13505.025], dtype=float32)
+
+At B iteration 46|| Error:array([13504.745], dtype=float32)
+
+At B iteration 47|| Error:array([13504.466], dtype=float32)
+
+At B iteration 48|| Error:array([13504.188], dtype=float32)
+
+At B iteration 49|| Error:array([13503.911], dtype=float32)
+
+At B iteration 50|| Error:array([13503.638], dtype=float32)
+
+At B iteration 51|| Error:array([13503.368], dtype=float32)
+
+At B iteration 52|| Error:array([13503.101], dtype=float32)
+
+At B iteration 53|| Error:array([13502.835], dtype=float32)
+
+At B iteration 54|| Error:array([13502.568], dtype=float32)
+
+At B iteration 55|| Error:array([13502.308], dtype=float32)
+
+At B iteration 56|| Error:array([13502.045], dtype=float32)
+
+At B iteration 57|| Error:array([13501.79], dtype=float32)
+
+At B iteration 58|| Error:array([13501.532], dtype=float32)
+
+At B iteration 59|| Error:array([13501.279], dtype=float32)
+
+At B iteration 60|| Error:array([13501.021], dtype=float32)
+
+At B iteration 61|| Error:array([13500.772], dtype=float32)
+
+At B iteration 62|| Error:array([13500.523], dtype=float32)
+
+At B iteration 63|| Error:array([13500.275], dtype=float32)
+
+At B iteration 64|| Error:array([13500.031], dtype=float32)
+
+At B iteration 65|| Error:array([13499.785], dtype=float32)
+
+At B iteration 66|| Error:array([13499.547], dtype=float32)
+
+At B iteration 67|| Error:array([13499.309], dtype=float32)
+
+At B iteration 68|| Error:array([13499.069], dtype=float32)
+
+At B iteration 69|| Error:array([13498.831], dtype=float32)
+
+At B iteration 70|| Error:array([13498.594], dtype=float32)
+
+At B iteration 71|| Error:array([13498.366], dtype=float32)
+
+At B iteration 72|| Error:array([13498.133], dtype=float32)
+
+At B iteration 73|| Error:array([13497.903], dtype=float32)
+
+At B iteration 74|| Error:array([13497.677], dtype=float32)
+
+At B iteration 75|| Error:array([13497.451], dtype=float32)
+
+At B iteration 76|| Error:array([13497.228], dtype=float32)
+
+At B iteration 77|| Error:array([13497.005], dtype=float32)
+
+At B iteration 78|| Error:array([13496.784], dtype=float32)
+
+At B iteration 79|| Error:array([13496.563], dtype=float32)
+
+At B iteration 80|| Error:array([13496.347], dtype=float32)
+
+At B iteration 81|| Error:array([13496.13], dtype=float32)
+
+At B iteration 82|| Error:array([13495.915], dtype=float32)
+
+At B iteration 83|| Error:array([13495.703], dtype=float32)
+
+At B iteration 84|| Error:array([13495.489], dtype=float32)
+
+At B iteration 85|| Error:array([13495.28], dtype=float32)
+
+At B iteration 86|| Error:array([13495.072], dtype=float32)
+
+At B iteration 87|| Error:array([13494.864], dtype=float32)
+
+At B iteration 88|| Error:array([13494.66], dtype=float32)
+
+At B iteration 89|| Error:array([13494.456], dtype=float32)
+
+At B iteration 90|| Error:array([13494.254], dtype=float32)
+
+At B iteration 91|| Error:array([13494.052], dtype=float32)
+
+At B iteration 92|| Error:array([13493.853], dtype=float32)
+
+At B iteration 93|| Error:array([13493.656], dtype=float32)
+
+At B iteration 94|| Error:array([13493.457], dtype=float32)
+
+At B iteration 95|| Error:array([13493.266], dtype=float32)
+
+At B iteration 96|| Error:array([13493.07], dtype=float32)
+
+At B iteration 97|| Error:array([13492.876], dtype=float32)
+
+At B iteration 98|| Error:array([13492.686], dtype=float32)
+
+At B iteration 99|| Error:array([13492.496], dtype=float32)
+
+ At final B iteration || Error: array([13492.496], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([13060.473], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([12817.85], dtype=float32)
+
+ Step D and lambda || Error: array([12815.559], dtype=float32)
+
+ At iteration4|| Error:array([12815.559], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([12815.299], dtype=float32)
+
+At B iteration 1|| Error:array([12815.043], dtype=float32)
+
+At B iteration 2|| Error:array([12814.787], dtype=float32)
+
+At B iteration 3|| Error:array([12814.531], dtype=float32)
+
+At B iteration 4|| Error:array([12814.277], dtype=float32)
+
+At B iteration 5|| Error:array([12814.027], dtype=float32)
+
+At B iteration 6|| Error:array([12813.781], dtype=float32)
+
+At B iteration 7|| Error:array([12813.533], dtype=float32)
+
+At B iteration 8|| Error:array([12813.287], dtype=float32)
+
+At B iteration 9|| Error:array([12813.045], dtype=float32)
+
+At B iteration 10|| Error:array([12812.801], dtype=float32)
+
+At B iteration 11|| Error:array([12812.5625], dtype=float32)
+
+At B iteration 12|| Error:array([12812.324], dtype=float32)
+
+At B iteration 13|| Error:array([12812.088], dtype=float32)
+
+At B iteration 14|| Error:array([12811.852], dtype=float32)
+
+At B iteration 15|| Error:array([12811.619], dtype=float32)
+
+At B iteration 16|| Error:array([12811.387], dtype=float32)
+
+At B iteration 17|| Error:array([12811.158], dtype=float32)
+
+At B iteration 18|| Error:array([12810.928], dtype=float32)
+
+At B iteration 19|| Error:array([12810.703], dtype=float32)
+
+At B iteration 20|| Error:array([12810.479], dtype=float32)
+
+At B iteration 21|| Error:array([12810.254], dtype=float32)
+
+At B iteration 22|| Error:array([12810.029], dtype=float32)
+
+At B iteration 23|| Error:array([12809.811], dtype=float32)
+
+At B iteration 24|| Error:array([12809.592], dtype=float32)
+
+At B iteration 25|| Error:array([12809.375], dtype=float32)
+
+At B iteration 26|| Error:array([12809.158], dtype=float32)
+
+At B iteration 27|| Error:array([12808.943], dtype=float32)
+
+At B iteration 28|| Error:array([12808.73], dtype=float32)
+
+At B iteration 29|| Error:array([12808.521], dtype=float32)
+
+At B iteration 30|| Error:array([12808.309], dtype=float32)
+
+At B iteration 31|| Error:array([12808.1], dtype=float32)
+
+At B iteration 32|| Error:array([12807.893], dtype=float32)
+
+At B iteration 33|| Error:array([12807.6875], dtype=float32)
+
+At B iteration 34|| Error:array([12807.484], dtype=float32)
+
+At B iteration 35|| Error:array([12807.279], dtype=float32)
+
+At B iteration 36|| Error:array([12807.08], dtype=float32)
+
+At B iteration 37|| Error:array([12806.879], dtype=float32)
+
+At B iteration 38|| Error:array([12806.68], dtype=float32)
+
+At B iteration 39|| Error:array([12806.484], dtype=float32)
+
+At B iteration 40|| Error:array([12806.287], dtype=float32)
+
+At B iteration 41|| Error:array([12806.092], dtype=float32)
+
+At B iteration 42|| Error:array([12805.898], dtype=float32)
+
+At B iteration 43|| Error:array([12805.707], dtype=float32)
+
+At B iteration 44|| Error:array([12805.516], dtype=float32)
+
+At B iteration 45|| Error:array([12805.326], dtype=float32)
+
+At B iteration 46|| Error:array([12805.143], dtype=float32)
+
+At B iteration 47|| Error:array([12804.955], dtype=float32)
+
+At B iteration 48|| Error:array([12804.768], dtype=float32)
+
+At B iteration 49|| Error:array([12804.584], dtype=float32)
+
+At B iteration 50|| Error:array([12804.4], dtype=float32)
+
+At B iteration 51|| Error:array([12804.219], dtype=float32)
+
+At B iteration 52|| Error:array([12804.041], dtype=float32)
+
+At B iteration 53|| Error:array([12803.861], dtype=float32)
+
+At B iteration 54|| Error:array([12803.684], dtype=float32)
+
+At B iteration 55|| Error:array([12803.506], dtype=float32)
+
+At B iteration 56|| Error:array([12803.33], dtype=float32)
+
+At B iteration 57|| Error:array([12803.156], dtype=float32)
+
+At B iteration 58|| Error:array([12802.982], dtype=float32)
+
+At B iteration 59|| Error:array([12802.8125], dtype=float32)
+
+At B iteration 60|| Error:array([12802.643], dtype=float32)
+
+At B iteration 61|| Error:array([12802.473], dtype=float32)
+
+At B iteration 62|| Error:array([12802.303], dtype=float32)
+
+At B iteration 63|| Error:array([12802.135], dtype=float32)
+
+At B iteration 64|| Error:array([12801.971], dtype=float32)
+
+At B iteration 65|| Error:array([12801.805], dtype=float32)
+
+At B iteration 66|| Error:array([12801.643], dtype=float32)
+
+At B iteration 67|| Error:array([12801.479], dtype=float32)
+
+At B iteration 68|| Error:array([12801.318], dtype=float32)
+
+At B iteration 69|| Error:array([12801.158], dtype=float32)
+
+At B iteration 70|| Error:array([12800.996], dtype=float32)
+
+At B iteration 71|| Error:array([12800.84], dtype=float32)
+
+At B iteration 72|| Error:array([12800.68], dtype=float32)
+
+At B iteration 73|| Error:array([12800.525], dtype=float32)
+
+At B iteration 74|| Error:array([12800.371], dtype=float32)
+
+At B iteration 75|| Error:array([12800.217], dtype=float32)
+
+At B iteration 76|| Error:array([12800.066], dtype=float32)
+
+At B iteration 77|| Error:array([12799.916], dtype=float32)
+
+At B iteration 78|| Error:array([12799.766], dtype=float32)
+
+At B iteration 79|| Error:array([12799.611], dtype=float32)
+
+At B iteration 80|| Error:array([12799.463], dtype=float32)
+
+At B iteration 81|| Error:array([12799.318], dtype=float32)
+
+At B iteration 82|| Error:array([12799.17], dtype=float32)
+
+At B iteration 83|| Error:array([12799.021], dtype=float32)
+
+At B iteration 84|| Error:array([12798.879], dtype=float32)
+
+At B iteration 85|| Error:array([12798.736], dtype=float32)
+
+At B iteration 86|| Error:array([12798.596], dtype=float32)
+
+At B iteration 87|| Error:array([12798.453], dtype=float32)
+
+At B iteration 88|| Error:array([12798.311], dtype=float32)
+
+At B iteration 89|| Error:array([12798.17], dtype=float32)
+
+At B iteration 90|| Error:array([12798.031], dtype=float32)
+
+At B iteration 91|| Error:array([12797.895], dtype=float32)
+
+At B iteration 92|| Error:array([12797.758], dtype=float32)
+
+At B iteration 93|| Error:array([12797.621], dtype=float32)
+
+At B iteration 94|| Error:array([12797.486], dtype=float32)
+
+At B iteration 95|| Error:array([12797.352], dtype=float32)
+
+At B iteration 96|| Error:array([12797.219], dtype=float32)
+
+At B iteration 97|| Error:array([12797.086], dtype=float32)
+
+At B iteration 98|| Error:array([12796.955], dtype=float32)
+
+At B iteration 99|| Error:array([12796.822], dtype=float32)
+
+ At final B iteration || Error: array([12796.822], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([12644.506], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([12608.576], dtype=float32)
+
+ Step D and lambda || Error: array([12607.059], dtype=float32)
+
+ At iteration5|| Error:array([12607.059], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([12606.874], dtype=float32)
+
+At B iteration 1|| Error:array([12606.697], dtype=float32)
+
+At B iteration 2|| Error:array([12606.516], dtype=float32)
+
+At B iteration 3|| Error:array([12606.339], dtype=float32)
+
+At B iteration 4|| Error:array([12606.162], dtype=float32)
+
+At B iteration 5|| Error:array([12605.986], dtype=float32)
+
+At B iteration 6|| Error:array([12605.812], dtype=float32)
+
+At B iteration 7|| Error:array([12605.639], dtype=float32)
+
+At B iteration 8|| Error:array([12605.466], dtype=float32)
+
+At B iteration 9|| Error:array([12605.293], dtype=float32)
+
+At B iteration 10|| Error:array([12605.124], dtype=float32)
+
+At B iteration 11|| Error:array([12604.955], dtype=float32)
+
+At B iteration 12|| Error:array([12604.788], dtype=float32)
+
+At B iteration 13|| Error:array([12604.622], dtype=float32)
+
+At B iteration 14|| Error:array([12604.457], dtype=float32)
+
+At B iteration 15|| Error:array([12604.291], dtype=float32)
+
+At B iteration 16|| Error:array([12604.127], dtype=float32)
+
+At B iteration 17|| Error:array([12603.966], dtype=float32)
+
+At B iteration 18|| Error:array([12603.805], dtype=float32)
+
+At B iteration 19|| Error:array([12603.643], dtype=float32)
+
+At B iteration 20|| Error:array([12603.483], dtype=float32)
+
+At B iteration 21|| Error:array([12603.324], dtype=float32)
+
+At B iteration 22|| Error:array([12603.169], dtype=float32)
+
+At B iteration 23|| Error:array([12603.015], dtype=float32)
+
+At B iteration 24|| Error:array([12602.859], dtype=float32)
+
+At B iteration 25|| Error:array([12602.703], dtype=float32)
+
+At B iteration 26|| Error:array([12602.548], dtype=float32)
+
+At B iteration 27|| Error:array([12602.397], dtype=float32)
+
+At B iteration 28|| Error:array([12602.246], dtype=float32)
+
+At B iteration 29|| Error:array([12602.098], dtype=float32)
+
+At B iteration 30|| Error:array([12601.948], dtype=float32)
+
+At B iteration 31|| Error:array([12601.801], dtype=float32)
+
+At B iteration 32|| Error:array([12601.653], dtype=float32)
+
+At B iteration 33|| Error:array([12601.502], dtype=float32)
+
+At B iteration 34|| Error:array([12601.362], dtype=float32)
+
+At B iteration 35|| Error:array([12601.216], dtype=float32)
+
+At B iteration 36|| Error:array([12601.073], dtype=float32)
+
+At B iteration 37|| Error:array([12600.93], dtype=float32)
+
+At B iteration 38|| Error:array([12600.789], dtype=float32)
+
+At B iteration 39|| Error:array([12600.648], dtype=float32)
+
+At B iteration 40|| Error:array([12600.51], dtype=float32)
+
+At B iteration 41|| Error:array([12600.368], dtype=float32)
+
+At B iteration 42|| Error:array([12600.232], dtype=float32)
+
+At B iteration 43|| Error:array([12600.094], dtype=float32)
+
+At B iteration 44|| Error:array([12599.957], dtype=float32)
+
+At B iteration 45|| Error:array([12599.824], dtype=float32)
+
+At B iteration 46|| Error:array([12599.688], dtype=float32)
+
+At B iteration 47|| Error:array([12599.556], dtype=float32)
+
+At B iteration 48|| Error:array([12599.425], dtype=float32)
+
+At B iteration 49|| Error:array([12599.289], dtype=float32)
+
+At B iteration 50|| Error:array([12599.158], dtype=float32)
+
+At B iteration 51|| Error:array([12599.03], dtype=float32)
+
+At B iteration 52|| Error:array([12598.899], dtype=float32)
+
+At B iteration 53|| Error:array([12598.77], dtype=float32)
+
+At B iteration 54|| Error:array([12598.644], dtype=float32)
+
+At B iteration 55|| Error:array([12598.516], dtype=float32)
+
+At B iteration 56|| Error:array([12598.391], dtype=float32)
+
+At B iteration 57|| Error:array([12598.266], dtype=float32)
+
+At B iteration 58|| Error:array([12598.14], dtype=float32)
+
+At B iteration 59|| Error:array([12598.016], dtype=float32)
+
+At B iteration 60|| Error:array([12597.892], dtype=float32)
+
+At B iteration 61|| Error:array([12597.7705], dtype=float32)
+
+At B iteration 62|| Error:array([12597.651], dtype=float32)
+
+At B iteration 63|| Error:array([12597.528], dtype=float32)
+
+At B iteration 64|| Error:array([12597.409], dtype=float32)
+
+At B iteration 65|| Error:array([12597.291], dtype=float32)
+
+At B iteration 66|| Error:array([12597.172], dtype=float32)
+
+At B iteration 67|| Error:array([12597.053], dtype=float32)
+
+At B iteration 68|| Error:array([12596.936], dtype=float32)
+
+At B iteration 69|| Error:array([12596.821], dtype=float32)
+
+At B iteration 70|| Error:array([12596.704], dtype=float32)
+
+At B iteration 71|| Error:array([12596.59], dtype=float32)
+
+At B iteration 72|| Error:array([12596.476], dtype=float32)
+
+At B iteration 73|| Error:array([12596.365], dtype=float32)
+
+At B iteration 74|| Error:array([12596.253], dtype=float32)
+
+At B iteration 75|| Error:array([12596.14], dtype=float32)
+
+At B iteration 76|| Error:array([12596.03], dtype=float32)
+
+At B iteration 77|| Error:array([12595.921], dtype=float32)
+
+At B iteration 78|| Error:array([12595.812], dtype=float32)
+
+At B iteration 79|| Error:array([12595.702], dtype=float32)
+
+At B iteration 80|| Error:array([12595.591], dtype=float32)
+
+At B iteration 81|| Error:array([12595.484], dtype=float32)
+
+At B iteration 82|| Error:array([12595.377], dtype=float32)
+
+At B iteration 83|| Error:array([12595.271], dtype=float32)
+
+At B iteration 84|| Error:array([12595.166], dtype=float32)
+
+At B iteration 85|| Error:array([12595.062], dtype=float32)
+
+At B iteration 86|| Error:array([12594.958], dtype=float32)
+
+At B iteration 87|| Error:array([12594.854], dtype=float32)
+
+At B iteration 88|| Error:array([12594.75], dtype=float32)
+
+At B iteration 89|| Error:array([12594.649], dtype=float32)
+
+At B iteration 90|| Error:array([12594.548], dtype=float32)
+
+At B iteration 91|| Error:array([12594.445], dtype=float32)
+
+At B iteration 92|| Error:array([12594.347], dtype=float32)
+
+At B iteration 93|| Error:array([12594.246], dtype=float32)
+
+At B iteration 94|| Error:array([12594.148], dtype=float32)
+
+At B iteration 95|| Error:array([12594.047], dtype=float32)
+
+At B iteration 96|| Error:array([12593.951], dtype=float32)
+
+At B iteration 97|| Error:array([12593.853], dtype=float32)
+
+At B iteration 98|| Error:array([12593.755], dtype=float32)
+
+At B iteration 99|| Error:array([12593.66], dtype=float32)
+
+ At final B iteration || Error: array([12593.66], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([12543.58], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([11260.005], dtype=float32)
+
+ Step D and lambda || Error: array([11259.249], dtype=float32)
+
+ At iteration6|| Error:array([11259.249], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([11259.116], dtype=float32)
+
+At B iteration 1|| Error:array([11258.985], dtype=float32)
+
+At B iteration 2|| Error:array([11258.858], dtype=float32)
+
+At B iteration 3|| Error:array([11258.7295], dtype=float32)
+
+At B iteration 4|| Error:array([11258.601], dtype=float32)
+
+At B iteration 5|| Error:array([11258.472], dtype=float32)
+
+At B iteration 6|| Error:array([11258.349], dtype=float32)
+
+At B iteration 7|| Error:array([11258.222], dtype=float32)
+
+At B iteration 8|| Error:array([11258.097], dtype=float32)
+
+At B iteration 9|| Error:array([11257.972], dtype=float32)
+
+At B iteration 10|| Error:array([11257.849], dtype=float32)
+
+At B iteration 11|| Error:array([11257.726], dtype=float32)
+
+At B iteration 12|| Error:array([11257.6045], dtype=float32)
+
+At B iteration 13|| Error:array([11257.483], dtype=float32)
+
+At B iteration 14|| Error:array([11257.362], dtype=float32)
+
+At B iteration 15|| Error:array([11257.243], dtype=float32)
+
+At B iteration 16|| Error:array([11257.124], dtype=float32)
+
+At B iteration 17|| Error:array([11257.007], dtype=float32)
+
+At B iteration 18|| Error:array([11256.89], dtype=float32)
+
+At B iteration 19|| Error:array([11256.7705], dtype=float32)
+
+At B iteration 20|| Error:array([11256.655], dtype=float32)
+
+At B iteration 21|| Error:array([11256.54], dtype=float32)
+
+At B iteration 22|| Error:array([11256.427], dtype=float32)
+
+At B iteration 23|| Error:array([11256.313], dtype=float32)
+
+At B iteration 24|| Error:array([11256.2], dtype=float32)
+
+At B iteration 25|| Error:array([11256.089], dtype=float32)
+
+At B iteration 26|| Error:array([11255.978], dtype=float32)
+
+At B iteration 27|| Error:array([11255.862], dtype=float32)
+
+At B iteration 28|| Error:array([11255.757], dtype=float32)
+
+At B iteration 29|| Error:array([11255.644], dtype=float32)
+
+At B iteration 30|| Error:array([11255.536], dtype=float32)
+
+At B iteration 31|| Error:array([11255.427], dtype=float32)
+
+At B iteration 32|| Error:array([11255.317], dtype=float32)
+
+At B iteration 33|| Error:array([11255.212], dtype=float32)
+
+At B iteration 34|| Error:array([11255.106], dtype=float32)
+
+At B iteration 35|| Error:array([11255.001], dtype=float32)
+
+At B iteration 36|| Error:array([11254.8955], dtype=float32)
+
+At B iteration 37|| Error:array([11254.79], dtype=float32)
+
+At B iteration 38|| Error:array([11254.685], dtype=float32)
+
+At B iteration 39|| Error:array([11254.581], dtype=float32)
+
+At B iteration 40|| Error:array([11254.481], dtype=float32)
+
+At B iteration 41|| Error:array([11254.378], dtype=float32)
+
+At B iteration 42|| Error:array([11254.278], dtype=float32)
+
+At B iteration 43|| Error:array([11254.179], dtype=float32)
+
+At B iteration 44|| Error:array([11254.077], dtype=float32)
+
+At B iteration 45|| Error:array([11253.978], dtype=float32)
+
+At B iteration 46|| Error:array([11253.876], dtype=float32)
+
+At B iteration 47|| Error:array([11253.778], dtype=float32)
+
+At B iteration 48|| Error:array([11253.681], dtype=float32)
+
+At B iteration 49|| Error:array([11253.585], dtype=float32)
+
+At B iteration 50|| Error:array([11253.491], dtype=float32)
+
+At B iteration 51|| Error:array([11253.394], dtype=float32)
+
+At B iteration 52|| Error:array([11253.296], dtype=float32)
+
+At B iteration 53|| Error:array([11253.204], dtype=float32)
+
+At B iteration 54|| Error:array([11253.11], dtype=float32)
+
+At B iteration 55|| Error:array([11253.015], dtype=float32)
+
+At B iteration 56|| Error:array([11252.923], dtype=float32)
+
+At B iteration 57|| Error:array([11252.829], dtype=float32)
+
+At B iteration 58|| Error:array([11252.739], dtype=float32)
+
+At B iteration 59|| Error:array([11252.644], dtype=float32)
+
+At B iteration 60|| Error:array([11252.556], dtype=float32)
+
+At B iteration 61|| Error:array([11252.464], dtype=float32)
+
+At B iteration 62|| Error:array([11252.376], dtype=float32)
+
+At B iteration 63|| Error:array([11252.284], dtype=float32)
+
+At B iteration 64|| Error:array([11252.196], dtype=float32)
+
+At B iteration 65|| Error:array([11252.108], dtype=float32)
+
+At B iteration 66|| Error:array([11252.022], dtype=float32)
+
+At B iteration 67|| Error:array([11251.937], dtype=float32)
+
+At B iteration 68|| Error:array([11251.849], dtype=float32)
+
+At B iteration 69|| Error:array([11251.761], dtype=float32)
+
+At B iteration 70|| Error:array([11251.677], dtype=float32)
+
+At B iteration 71|| Error:array([11251.593], dtype=float32)
+
+At B iteration 72|| Error:array([11251.507], dtype=float32)
+
+At B iteration 73|| Error:array([11251.423], dtype=float32)
+
+At B iteration 74|| Error:array([11251.341], dtype=float32)
+
+At B iteration 75|| Error:array([11251.257], dtype=float32)
+
+At B iteration 76|| Error:array([11251.173], dtype=float32)
+
+At B iteration 77|| Error:array([11251.091], dtype=float32)
+
+At B iteration 78|| Error:array([11251.013], dtype=float32)
+
+At B iteration 79|| Error:array([11250.929], dtype=float32)
+
+At B iteration 80|| Error:array([11250.849], dtype=float32)
+
+At B iteration 81|| Error:array([11250.769], dtype=float32)
+
+At B iteration 82|| Error:array([11250.688], dtype=float32)
+
+At B iteration 83|| Error:array([11250.608], dtype=float32)
+
+At B iteration 84|| Error:array([11250.53], dtype=float32)
+
+At B iteration 85|| Error:array([11250.452], dtype=float32)
+
+At B iteration 86|| Error:array([11250.374], dtype=float32)
+
+At B iteration 87|| Error:array([11250.3], dtype=float32)
+
+At B iteration 88|| Error:array([11250.22], dtype=float32)
+
+At B iteration 89|| Error:array([11250.1455], dtype=float32)
+
+At B iteration 90|| Error:array([11250.071], dtype=float32)
+
+At B iteration 91|| Error:array([11249.991], dtype=float32)
+
+At B iteration 92|| Error:array([11249.919], dtype=float32)
+
+At B iteration 93|| Error:array([11249.845], dtype=float32)
+
+At B iteration 94|| Error:array([11249.7705], dtype=float32)
+
+At B iteration 95|| Error:array([11249.7], dtype=float32)
+
+At B iteration 96|| Error:array([11249.624], dtype=float32)
+
+At B iteration 97|| Error:array([11249.55], dtype=float32)
+
+At B iteration 98|| Error:array([11249.4795], dtype=float32)
+
+At B iteration 99|| Error:array([11249.405], dtype=float32)
+
+ At final B iteration || Error: array([11249.405], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([10892.356], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([10844.057], dtype=float32)
+
+ Step D and lambda || Error: array([10843.094], dtype=float32)
+
+ At iteration7|| Error:array([10843.094], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([10842.995], dtype=float32)
+
+At B iteration 1|| Error:array([10842.8955], dtype=float32)
+
+At B iteration 2|| Error:array([10842.796], dtype=float32)
+
+At B iteration 3|| Error:array([10842.7], dtype=float32)
+
+At B iteration 4|| Error:array([10842.601], dtype=float32)
+
+At B iteration 5|| Error:array([10842.504], dtype=float32)
+
+At B iteration 6|| Error:array([10842.41], dtype=float32)
+
+At B iteration 7|| Error:array([10842.3125], dtype=float32)
+
+At B iteration 8|| Error:array([10842.219], dtype=float32)
+
+At B iteration 9|| Error:array([10842.122], dtype=float32)
+
+At B iteration 10|| Error:array([10842.028], dtype=float32)
+
+At B iteration 11|| Error:array([10841.936], dtype=float32)
+
+At B iteration 12|| Error:array([10841.841], dtype=float32)
+
+At B iteration 13|| Error:array([10841.749], dtype=float32)
+
+At B iteration 14|| Error:array([10841.658], dtype=float32)
+
+At B iteration 15|| Error:array([10841.564], dtype=float32)
+
+At B iteration 16|| Error:array([10841.474], dtype=float32)
+
+At B iteration 17|| Error:array([10841.386], dtype=float32)
+
+At B iteration 18|| Error:array([10841.296], dtype=float32)
+
+At B iteration 19|| Error:array([10841.206], dtype=float32)
+
+At B iteration 20|| Error:array([10841.117], dtype=float32)
+
+At B iteration 21|| Error:array([10841.031], dtype=float32)
+
+At B iteration 22|| Error:array([10840.941], dtype=float32)
+
+At B iteration 23|| Error:array([10840.854], dtype=float32)
+
+At B iteration 24|| Error:array([10840.768], dtype=float32)
+
+At B iteration 25|| Error:array([10840.682], dtype=float32)
+
+At B iteration 26|| Error:array([10840.595], dtype=float32)
+
+At B iteration 27|| Error:array([10840.51], dtype=float32)
+
+At B iteration 28|| Error:array([10840.426], dtype=float32)
+
+At B iteration 29|| Error:array([10840.338], dtype=float32)
+
+At B iteration 30|| Error:array([10840.257], dtype=float32)
+
+At B iteration 31|| Error:array([10840.174], dtype=float32)
+
+At B iteration 32|| Error:array([10840.088], dtype=float32)
+
+At B iteration 33|| Error:array([10840.009], dtype=float32)
+
+At B iteration 34|| Error:array([10839.927], dtype=float32)
+
+At B iteration 35|| Error:array([10839.845], dtype=float32)
+
+At B iteration 36|| Error:array([10839.764], dtype=float32)
+
+At B iteration 37|| Error:array([10839.684], dtype=float32)
+
+At B iteration 38|| Error:array([10839.602], dtype=float32)
+
+At B iteration 39|| Error:array([10839.524], dtype=float32)
+
+At B iteration 40|| Error:array([10839.445], dtype=float32)
+
+At B iteration 41|| Error:array([10839.367], dtype=float32)
+
+At B iteration 42|| Error:array([10839.286], dtype=float32)
+
+At B iteration 43|| Error:array([10839.21], dtype=float32)
+
+At B iteration 44|| Error:array([10839.132], dtype=float32)
+
+At B iteration 45|| Error:array([10839.055], dtype=float32)
+
+At B iteration 46|| Error:array([10838.98], dtype=float32)
+
+At B iteration 47|| Error:array([10838.902], dtype=float32)
+
+At B iteration 48|| Error:array([10838.829], dtype=float32)
+
+At B iteration 49|| Error:array([10838.755], dtype=float32)
+
+At B iteration 50|| Error:array([10838.681], dtype=float32)
+
+At B iteration 51|| Error:array([10838.606], dtype=float32)
+
+At B iteration 52|| Error:array([10838.53], dtype=float32)
+
+At B iteration 53|| Error:array([10838.46], dtype=float32)
+
+At B iteration 54|| Error:array([10838.387], dtype=float32)
+
+At B iteration 55|| Error:array([10838.313], dtype=float32)
+
+At B iteration 56|| Error:array([10838.241], dtype=float32)
+
+At B iteration 57|| Error:array([10838.17], dtype=float32)
+
+At B iteration 58|| Error:array([10838.099], dtype=float32)
+
+At B iteration 59|| Error:array([10838.028], dtype=float32)
+
+At B iteration 60|| Error:array([10837.957], dtype=float32)
+
+At B iteration 61|| Error:array([10837.888], dtype=float32)
+
+At B iteration 62|| Error:array([10837.819], dtype=float32)
+
+At B iteration 63|| Error:array([10837.75], dtype=float32)
+
+At B iteration 64|| Error:array([10837.684], dtype=float32)
+
+At B iteration 65|| Error:array([10837.614], dtype=float32)
+
+At B iteration 66|| Error:array([10837.546], dtype=float32)
+
+At B iteration 67|| Error:array([10837.48], dtype=float32)
+
+At B iteration 68|| Error:array([10837.413], dtype=float32)
+
+At B iteration 69|| Error:array([10837.346], dtype=float32)
+
+At B iteration 70|| Error:array([10837.28], dtype=float32)
+
+At B iteration 71|| Error:array([10837.214], dtype=float32)
+
+At B iteration 72|| Error:array([10837.15], dtype=float32)
+
+At B iteration 73|| Error:array([10837.084], dtype=float32)
+
+At B iteration 74|| Error:array([10837.02], dtype=float32)
+
+At B iteration 75|| Error:array([10836.955], dtype=float32)
+
+At B iteration 76|| Error:array([10836.893], dtype=float32)
+
+At B iteration 77|| Error:array([10836.827], dtype=float32)
+
+At B iteration 78|| Error:array([10836.767], dtype=float32)
+
+At B iteration 79|| Error:array([10836.704], dtype=float32)
+
+At B iteration 80|| Error:array([10836.64], dtype=float32)
+
+At B iteration 81|| Error:array([10836.578], dtype=float32)
+
+At B iteration 82|| Error:array([10836.519], dtype=float32)
+
+At B iteration 83|| Error:array([10836.456], dtype=float32)
+
+At B iteration 84|| Error:array([10836.3955], dtype=float32)
+
+At B iteration 85|| Error:array([10836.334], dtype=float32)
+
+At B iteration 86|| Error:array([10836.273], dtype=float32)
+
+At B iteration 87|| Error:array([10836.214], dtype=float32)
+
+At B iteration 88|| Error:array([10836.154], dtype=float32)
+
+At B iteration 89|| Error:array([10836.096], dtype=float32)
+
+At B iteration 90|| Error:array([10836.036], dtype=float32)
+
+At B iteration 91|| Error:array([10835.979], dtype=float32)
+
+At B iteration 92|| Error:array([10835.918], dtype=float32)
+
+At B iteration 93|| Error:array([10835.861], dtype=float32)
+
+At B iteration 94|| Error:array([10835.803], dtype=float32)
+
+At B iteration 95|| Error:array([10835.749], dtype=float32)
+
+At B iteration 96|| Error:array([10835.69], dtype=float32)
+
+At B iteration 97|| Error:array([10835.634], dtype=float32)
+
+At B iteration 98|| Error:array([10835.576], dtype=float32)
+
+At B iteration 99|| Error:array([10835.522], dtype=float32)
+
+ At final B iteration || Error: array([10835.522], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([10667.333], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([10307.752], dtype=float32)
+
+ Step D and lambda || Error: array([10306.79], dtype=float32)
+
+ At iteration8|| Error:array([10306.79], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([10306.709], dtype=float32)
+
+At B iteration 1|| Error:array([10306.635], dtype=float32)
+
+At B iteration 2|| Error:array([10306.558], dtype=float32)
+
+At B iteration 3|| Error:array([10306.4795], dtype=float32)
+
+At B iteration 4|| Error:array([10306.406], dtype=float32)
+
+At B iteration 5|| Error:array([10306.328], dtype=float32)
+
+At B iteration 6|| Error:array([10306.254], dtype=float32)
+
+At B iteration 7|| Error:array([10306.177], dtype=float32)
+
+At B iteration 8|| Error:array([10306.1045], dtype=float32)
+
+At B iteration 9|| Error:array([10306.026], dtype=float32)
+
+At B iteration 10|| Error:array([10305.955], dtype=float32)
+
+At B iteration 11|| Error:array([10305.879], dtype=float32)
+
+At B iteration 12|| Error:array([10305.809], dtype=float32)
+
+At B iteration 13|| Error:array([10305.737], dtype=float32)
+
+At B iteration 14|| Error:array([10305.665], dtype=float32)
+
+At B iteration 15|| Error:array([10305.592], dtype=float32)
+
+At B iteration 16|| Error:array([10305.521], dtype=float32)
+
+At B iteration 17|| Error:array([10305.451], dtype=float32)
+
+At B iteration 18|| Error:array([10305.38], dtype=float32)
+
+At B iteration 19|| Error:array([10305.311], dtype=float32)
+
+At B iteration 20|| Error:array([10305.241], dtype=float32)
+
+At B iteration 21|| Error:array([10305.169], dtype=float32)
+
+At B iteration 22|| Error:array([10305.103], dtype=float32)
+
+At B iteration 23|| Error:array([10305.033], dtype=float32)
+
+At B iteration 24|| Error:array([10304.965], dtype=float32)
+
+At B iteration 25|| Error:array([10304.897], dtype=float32)
+
+At B iteration 26|| Error:array([10304.829], dtype=float32)
+
+At B iteration 27|| Error:array([10304.766], dtype=float32)
+
+At B iteration 28|| Error:array([10304.697], dtype=float32)
+
+At B iteration 29|| Error:array([10304.633], dtype=float32)
+
+At B iteration 30|| Error:array([10304.5625], dtype=float32)
+
+At B iteration 31|| Error:array([10304.502], dtype=float32)
+
+At B iteration 32|| Error:array([10304.436], dtype=float32)
+
+At B iteration 33|| Error:array([10304.367], dtype=float32)
+
+At B iteration 34|| Error:array([10304.306], dtype=float32)
+
+At B iteration 35|| Error:array([10304.24], dtype=float32)
+
+At B iteration 36|| Error:array([10304.178], dtype=float32)
+
+At B iteration 37|| Error:array([10304.113], dtype=float32)
+
+At B iteration 38|| Error:array([10304.052], dtype=float32)
+
+At B iteration 39|| Error:array([10303.988], dtype=float32)
+
+At B iteration 40|| Error:array([10303.925], dtype=float32)
+
+At B iteration 41|| Error:array([10303.861], dtype=float32)
+
+At B iteration 42|| Error:array([10303.803], dtype=float32)
+
+At B iteration 43|| Error:array([10303.741], dtype=float32)
+
+At B iteration 44|| Error:array([10303.681], dtype=float32)
+
+At B iteration 45|| Error:array([10303.618], dtype=float32)
+
+At B iteration 46|| Error:array([10303.557], dtype=float32)
+
+At B iteration 47|| Error:array([10303.5], dtype=float32)
+
+At B iteration 48|| Error:array([10303.439], dtype=float32)
+
+At B iteration 49|| Error:array([10303.38], dtype=float32)
+
+At B iteration 50|| Error:array([10303.319], dtype=float32)
+
+At B iteration 51|| Error:array([10303.263], dtype=float32)
+
+At B iteration 52|| Error:array([10303.204], dtype=float32)
+
+At B iteration 53|| Error:array([10303.143], dtype=float32)
+
+At B iteration 54|| Error:array([10303.086], dtype=float32)
+
+At B iteration 55|| Error:array([10303.03], dtype=float32)
+
+At B iteration 56|| Error:array([10302.974], dtype=float32)
+
+At B iteration 57|| Error:array([10302.917], dtype=float32)
+
+At B iteration 58|| Error:array([10302.859], dtype=float32)
+
+At B iteration 59|| Error:array([10302.803], dtype=float32)
+
+At B iteration 60|| Error:array([10302.749], dtype=float32)
+
+At B iteration 61|| Error:array([10302.689], dtype=float32)
+
+At B iteration 62|| Error:array([10302.638], dtype=float32)
+
+At B iteration 63|| Error:array([10302.584], dtype=float32)
+
+At B iteration 64|| Error:array([10302.527], dtype=float32)
+
+At B iteration 65|| Error:array([10302.472], dtype=float32)
+
+At B iteration 66|| Error:array([10302.42], dtype=float32)
+
+At B iteration 67|| Error:array([10302.367], dtype=float32)
+
+At B iteration 68|| Error:array([10302.312], dtype=float32)
+
+At B iteration 69|| Error:array([10302.26], dtype=float32)
+
+At B iteration 70|| Error:array([10302.206], dtype=float32)
+
+At B iteration 71|| Error:array([10302.154], dtype=float32)
+
+At B iteration 72|| Error:array([10302.103], dtype=float32)
+
+At B iteration 73|| Error:array([10302.05], dtype=float32)
+
+At B iteration 74|| Error:array([10302.], dtype=float32)
+
+At B iteration 75|| Error:array([10301.945], dtype=float32)
+
+At B iteration 76|| Error:array([10301.8955], dtype=float32)
+
+At B iteration 77|| Error:array([10301.845], dtype=float32)
+
+At B iteration 78|| Error:array([10301.796], dtype=float32)
+
+At B iteration 79|| Error:array([10301.744], dtype=float32)
+
+At B iteration 80|| Error:array([10301.692], dtype=float32)
+
+At B iteration 81|| Error:array([10301.645], dtype=float32)
+
+At B iteration 82|| Error:array([10301.595], dtype=float32)
+
+At B iteration 83|| Error:array([10301.547], dtype=float32)
+
+At B iteration 84|| Error:array([10301.498], dtype=float32)
+
+At B iteration 85|| Error:array([10301.448], dtype=float32)
+
+At B iteration 86|| Error:array([10301.399], dtype=float32)
+
+At B iteration 87|| Error:array([10301.351], dtype=float32)
+
+At B iteration 88|| Error:array([10301.306], dtype=float32)
+
+At B iteration 89|| Error:array([10301.257], dtype=float32)
+
+At B iteration 90|| Error:array([10301.208], dtype=float32)
+
+At B iteration 91|| Error:array([10301.162], dtype=float32)
+
+At B iteration 92|| Error:array([10301.115], dtype=float32)
+
+At B iteration 93|| Error:array([10301.069], dtype=float32)
+
+At B iteration 94|| Error:array([10301.022], dtype=float32)
+
+At B iteration 95|| Error:array([10300.978], dtype=float32)
+
+At B iteration 96|| Error:array([10300.93], dtype=float32)
+
+At B iteration 97|| Error:array([10300.884], dtype=float32)
+
+At B iteration 98|| Error:array([10300.84], dtype=float32)
+
+At B iteration 99|| Error:array([10300.795], dtype=float32)
+
+ At final B iteration || Error: array([10300.795], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([10210.563], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([10113.058], dtype=float32)
+
+ Step D and lambda || Error: array([10112.144], dtype=float32)
+
+ At iteration9|| Error:array([10112.144], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([10112.083], dtype=float32)
+
+At B iteration 1|| Error:array([10112.018], dtype=float32)
+
+At B iteration 2|| Error:array([10111.956], dtype=float32)
+
+At B iteration 3|| Error:array([10111.892], dtype=float32)
+
+At B iteration 4|| Error:array([10111.833], dtype=float32)
+
+At B iteration 5|| Error:array([10111.768], dtype=float32)
+
+At B iteration 6|| Error:array([10111.707], dtype=float32)
+
+At B iteration 7|| Error:array([10111.646], dtype=float32)
+
+At B iteration 8|| Error:array([10111.587], dtype=float32)
+
+At B iteration 9|| Error:array([10111.522], dtype=float32)
+
+At B iteration 10|| Error:array([10111.464], dtype=float32)
+
+At B iteration 11|| Error:array([10111.407], dtype=float32)
+
+At B iteration 12|| Error:array([10111.345], dtype=float32)
+
+At B iteration 13|| Error:array([10111.285], dtype=float32)
+
+At B iteration 14|| Error:array([10111.227], dtype=float32)
+
+At B iteration 15|| Error:array([10111.168], dtype=float32)
+
+At B iteration 16|| Error:array([10111.11], dtype=float32)
+
+At B iteration 17|| Error:array([10111.053], dtype=float32)
+
+At B iteration 18|| Error:array([10110.994], dtype=float32)
+
+At B iteration 19|| Error:array([10110.939], dtype=float32)
+
+At B iteration 20|| Error:array([10110.882], dtype=float32)
+
+At B iteration 21|| Error:array([10110.824], dtype=float32)
+
+At B iteration 22|| Error:array([10110.768], dtype=float32)
+
+At B iteration 23|| Error:array([10110.712], dtype=float32)
+
+At B iteration 24|| Error:array([10110.657], dtype=float32)
+
+At B iteration 25|| Error:array([10110.598], dtype=float32)
+
+At B iteration 26|| Error:array([10110.544], dtype=float32)
+
+At B iteration 27|| Error:array([10110.489], dtype=float32)
+
+At B iteration 28|| Error:array([10110.435], dtype=float32)
+
+At B iteration 29|| Error:array([10110.382], dtype=float32)
+
+At B iteration 30|| Error:array([10110.326], dtype=float32)
+
+At B iteration 31|| Error:array([10110.272], dtype=float32)
+
+At B iteration 32|| Error:array([10110.221], dtype=float32)
+
+At B iteration 33|| Error:array([10110.167], dtype=float32)
+
+At B iteration 34|| Error:array([10110.116], dtype=float32)
+
+At B iteration 35|| Error:array([10110.062], dtype=float32)
+
+At B iteration 36|| Error:array([10110.005], dtype=float32)
+
+At B iteration 37|| Error:array([10109.956], dtype=float32)
+
+At B iteration 38|| Error:array([10109.901], dtype=float32)
+
+At B iteration 39|| Error:array([10109.854], dtype=float32)
+
+At B iteration 40|| Error:array([10109.801], dtype=float32)
+
+At B iteration 41|| Error:array([10109.75], dtype=float32)
+
+At B iteration 42|| Error:array([10109.699], dtype=float32)
+
+At B iteration 43|| Error:array([10109.648], dtype=float32)
+
+At B iteration 44|| Error:array([10109.598], dtype=float32)
+
+At B iteration 45|| Error:array([10109.549], dtype=float32)
+
+At B iteration 46|| Error:array([10109.5], dtype=float32)
+
+At B iteration 47|| Error:array([10109.448], dtype=float32)
+
+At B iteration 48|| Error:array([10109.4], dtype=float32)
+
+At B iteration 49|| Error:array([10109.352], dtype=float32)
+
+At B iteration 50|| Error:array([10109.304], dtype=float32)
+
+At B iteration 51|| Error:array([10109.256], dtype=float32)
+
+At B iteration 52|| Error:array([10109.207], dtype=float32)
+
+At B iteration 53|| Error:array([10109.162], dtype=float32)
+
+At B iteration 54|| Error:array([10109.112], dtype=float32)
+
+At B iteration 55|| Error:array([10109.064], dtype=float32)
+
+At B iteration 56|| Error:array([10109.018], dtype=float32)
+
+At B iteration 57|| Error:array([10108.97], dtype=float32)
+
+At B iteration 58|| Error:array([10108.925], dtype=float32)
+
+At B iteration 59|| Error:array([10108.877], dtype=float32)
+
+At B iteration 60|| Error:array([10108.828], dtype=float32)
+
+At B iteration 61|| Error:array([10108.788], dtype=float32)
+
+At B iteration 62|| Error:array([10108.74], dtype=float32)
+
+At B iteration 63|| Error:array([10108.692], dtype=float32)
+
+At B iteration 64|| Error:array([10108.65], dtype=float32)
+
+At B iteration 65|| Error:array([10108.6045], dtype=float32)
+
+At B iteration 66|| Error:array([10108.561], dtype=float32)
+
+At B iteration 67|| Error:array([10108.516], dtype=float32)
+
+At B iteration 68|| Error:array([10108.471], dtype=float32)
+
+At B iteration 69|| Error:array([10108.428], dtype=float32)
+
+At B iteration 70|| Error:array([10108.384], dtype=float32)
+
+At B iteration 71|| Error:array([10108.34], dtype=float32)
+
+At B iteration 72|| Error:array([10108.295], dtype=float32)
+
+At B iteration 73|| Error:array([10108.254], dtype=float32)
+
+At B iteration 74|| Error:array([10108.212], dtype=float32)
+
+At B iteration 75|| Error:array([10108.169], dtype=float32)
+
+At B iteration 76|| Error:array([10108.127], dtype=float32)
+
+At B iteration 77|| Error:array([10108.083], dtype=float32)
+
+At B iteration 78|| Error:array([10108.043], dtype=float32)
+
+At B iteration 79|| Error:array([10108.001], dtype=float32)
+
+At B iteration 80|| Error:array([10107.956], dtype=float32)
+
+At B iteration 81|| Error:array([10107.917], dtype=float32)
+
+At B iteration 82|| Error:array([10107.877], dtype=float32)
+
+At B iteration 83|| Error:array([10107.836], dtype=float32)
+
+At B iteration 84|| Error:array([10107.794], dtype=float32)
+
+At B iteration 85|| Error:array([10107.755], dtype=float32)
+
+At B iteration 86|| Error:array([10107.714], dtype=float32)
+
+At B iteration 87|| Error:array([10107.675], dtype=float32)
+
+At B iteration 88|| Error:array([10107.634], dtype=float32)
+
+At B iteration 89|| Error:array([10107.596], dtype=float32)
+
+At B iteration 90|| Error:array([10107.554], dtype=float32)
+
+At B iteration 91|| Error:array([10107.518], dtype=float32)
+
+At B iteration 92|| Error:array([10107.477], dtype=float32)
+
+At B iteration 93|| Error:array([10107.4375], dtype=float32)
+
+At B iteration 94|| Error:array([10107.399], dtype=float32)
+
+At B iteration 95|| Error:array([10107.365], dtype=float32)
+
+At B iteration 96|| Error:array([10107.322], dtype=float32)
+
+At B iteration 97|| Error:array([10107.285], dtype=float32)
+
+At B iteration 98|| Error:array([10107.248], dtype=float32)
+
+At B iteration 99|| Error:array([10107.21], dtype=float32)
+
+ At final B iteration || Error: array([10107.21], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([10044.141], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([10030.027], dtype=float32)
+
+ Step D and lambda || Error: array([10029.866], dtype=float32)
+
+ At iteration10|| Error:array([10029.866], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([10029.816], dtype=float32)
+
+At B iteration 1|| Error:array([10029.767], dtype=float32)
+
+At B iteration 2|| Error:array([10029.716], dtype=float32)
+
+At B iteration 3|| Error:array([10029.667], dtype=float32)
+
+At B iteration 4|| Error:array([10029.618], dtype=float32)
+
+At B iteration 5|| Error:array([10029.566], dtype=float32)
+
+At B iteration 6|| Error:array([10029.517], dtype=float32)
+
+At B iteration 7|| Error:array([10029.469], dtype=float32)
+
+At B iteration 8|| Error:array([10029.421], dtype=float32)
+
+At B iteration 9|| Error:array([10029.375], dtype=float32)
+
+At B iteration 10|| Error:array([10029.324], dtype=float32)
+
+At B iteration 11|| Error:array([10029.281], dtype=float32)
+
+At B iteration 12|| Error:array([10029.231], dtype=float32)
+
+At B iteration 13|| Error:array([10029.185], dtype=float32)
+
+At B iteration 14|| Error:array([10029.138], dtype=float32)
+
+At B iteration 15|| Error:array([10029.092], dtype=float32)
+
+At B iteration 16|| Error:array([10029.045], dtype=float32)
+
+At B iteration 17|| Error:array([10028.998], dtype=float32)
+
+At B iteration 18|| Error:array([10028.954], dtype=float32)
+
+At B iteration 19|| Error:array([10028.908], dtype=float32)
+
+At B iteration 20|| Error:array([10028.862], dtype=float32)
+
+At B iteration 21|| Error:array([10028.817], dtype=float32)
+
+At B iteration 22|| Error:array([10028.771], dtype=float32)
+
+At B iteration 23|| Error:array([10028.727], dtype=float32)
+
+At B iteration 24|| Error:array([10028.684], dtype=float32)
+
+At B iteration 25|| Error:array([10028.641], dtype=float32)
+
+At B iteration 26|| Error:array([10028.598], dtype=float32)
+
+At B iteration 27|| Error:array([10028.551], dtype=float32)
+
+At B iteration 28|| Error:array([10028.508], dtype=float32)
+
+At B iteration 29|| Error:array([10028.466], dtype=float32)
+
+At B iteration 30|| Error:array([10028.421], dtype=float32)
+
+At B iteration 31|| Error:array([10028.379], dtype=float32)
+
+At B iteration 32|| Error:array([10028.339], dtype=float32)
+
+At B iteration 33|| Error:array([10028.295], dtype=float32)
+
+At B iteration 34|| Error:array([10028.251], dtype=float32)
+
+At B iteration 35|| Error:array([10028.211], dtype=float32)
+
+At B iteration 36|| Error:array([10028.172], dtype=float32)
+
+At B iteration 37|| Error:array([10028.126], dtype=float32)
+
+At B iteration 38|| Error:array([10028.086], dtype=float32)
+
+At B iteration 39|| Error:array([10028.044], dtype=float32)
+
+At B iteration 40|| Error:array([10028.002], dtype=float32)
+
+At B iteration 41|| Error:array([10027.962], dtype=float32)
+
+At B iteration 42|| Error:array([10027.921], dtype=float32)
+
+At B iteration 43|| Error:array([10027.884], dtype=float32)
+
+At B iteration 44|| Error:array([10027.84], dtype=float32)
+
+At B iteration 45|| Error:array([10027.803], dtype=float32)
+
+At B iteration 46|| Error:array([10027.764], dtype=float32)
+
+At B iteration 47|| Error:array([10027.724], dtype=float32)
+
+At B iteration 48|| Error:array([10027.683], dtype=float32)
+
+At B iteration 49|| Error:array([10027.646], dtype=float32)
+
+At B iteration 50|| Error:array([10027.6045], dtype=float32)
+
+At B iteration 51|| Error:array([10027.566], dtype=float32)
+
+At B iteration 52|| Error:array([10027.527], dtype=float32)
+
+At B iteration 53|| Error:array([10027.49], dtype=float32)
+
+At B iteration 54|| Error:array([10027.449], dtype=float32)
+
+At B iteration 55|| Error:array([10027.413], dtype=float32)
+
+At B iteration 56|| Error:array([10027.377], dtype=float32)
+
+At B iteration 57|| Error:array([10027.339], dtype=float32)
+
+At B iteration 58|| Error:array([10027.301], dtype=float32)
+
+At B iteration 59|| Error:array([10027.264], dtype=float32)
+
+At B iteration 60|| Error:array([10027.227], dtype=float32)
+
+At B iteration 61|| Error:array([10027.189], dtype=float32)
+
+At B iteration 62|| Error:array([10027.151], dtype=float32)
+
+At B iteration 63|| Error:array([10027.119], dtype=float32)
+
+At B iteration 64|| Error:array([10027.084], dtype=float32)
+
+At B iteration 65|| Error:array([10027.044], dtype=float32)
+
+At B iteration 66|| Error:array([10027.01], dtype=float32)
+
+At B iteration 67|| Error:array([10026.975], dtype=float32)
+
+At B iteration 68|| Error:array([10026.938], dtype=float32)
+
+At B iteration 69|| Error:array([10026.901], dtype=float32)
+
+At B iteration 70|| Error:array([10026.869], dtype=float32)
+
+At B iteration 71|| Error:array([10026.832], dtype=float32)
+
+At B iteration 72|| Error:array([10026.802], dtype=float32)
+
+At B iteration 73|| Error:array([10026.764], dtype=float32)
+
+At B iteration 74|| Error:array([10026.731], dtype=float32)
+
+At B iteration 75|| Error:array([10026.695], dtype=float32)
+
+At B iteration 76|| Error:array([10026.662], dtype=float32)
+
+At B iteration 77|| Error:array([10026.627], dtype=float32)
+
+At B iteration 78|| Error:array([10026.595], dtype=float32)
+
+At B iteration 79|| Error:array([10026.56], dtype=float32)
+
+At B iteration 80|| Error:array([10026.524], dtype=float32)
+
+At B iteration 81|| Error:array([10026.493], dtype=float32)
+
+At B iteration 82|| Error:array([10026.462], dtype=float32)
+
+At B iteration 83|| Error:array([10026.428], dtype=float32)
+
+At B iteration 84|| Error:array([10026.395], dtype=float32)
+
+At B iteration 85|| Error:array([10026.361], dtype=float32)
+
+At B iteration 86|| Error:array([10026.33], dtype=float32)
+
+At B iteration 87|| Error:array([10026.299], dtype=float32)
+
+At B iteration 88|| Error:array([10026.266], dtype=float32)
+
+At B iteration 89|| Error:array([10026.232], dtype=float32)
+
+At B iteration 90|| Error:array([10026.203], dtype=float32)
+
+At B iteration 91|| Error:array([10026.171], dtype=float32)
+
+At B iteration 92|| Error:array([10026.139], dtype=float32)
+
+At B iteration 93|| Error:array([10026.109], dtype=float32)
+
+At B iteration 94|| Error:array([10026.076], dtype=float32)
+
+At B iteration 95|| Error:array([10026.046], dtype=float32)
+
+At B iteration 96|| Error:array([10026.015], dtype=float32)
+
+At B iteration 97|| Error:array([10025.985], dtype=float32)
+
+At B iteration 98|| Error:array([10025.956], dtype=float32)
+
+At B iteration 99|| Error:array([10025.923], dtype=float32)
+
+ At final B iteration || Error: array([10025.923], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([10010.657], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9923.236], dtype=float32)
+
+ Step D and lambda || Error: array([9922.499], dtype=float32)
+
+ At iteration11|| Error:array([9922.499], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9922.454], dtype=float32)
+
+At B iteration 1|| Error:array([9922.407], dtype=float32)
+
+At B iteration 2|| Error:array([9922.365], dtype=float32)
+
+At B iteration 3|| Error:array([9922.319], dtype=float32)
+
+At B iteration 4|| Error:array([9922.274], dtype=float32)
+
+At B iteration 5|| Error:array([9922.229], dtype=float32)
+
+At B iteration 6|| Error:array([9922.187], dtype=float32)
+
+At B iteration 7|| Error:array([9922.14], dtype=float32)
+
+At B iteration 8|| Error:array([9922.099], dtype=float32)
+
+At B iteration 9|| Error:array([9922.054], dtype=float32)
+
+At B iteration 10|| Error:array([9922.008], dtype=float32)
+
+At B iteration 11|| Error:array([9921.964], dtype=float32)
+
+At B iteration 12|| Error:array([9921.926], dtype=float32)
+
+At B iteration 13|| Error:array([9921.881], dtype=float32)
+
+At B iteration 14|| Error:array([9921.837], dtype=float32)
+
+At B iteration 15|| Error:array([9921.795], dtype=float32)
+
+At B iteration 16|| Error:array([9921.755], dtype=float32)
+
+At B iteration 17|| Error:array([9921.712], dtype=float32)
+
+At B iteration 18|| Error:array([9921.672], dtype=float32)
+
+At B iteration 19|| Error:array([9921.627], dtype=float32)
+
+At B iteration 20|| Error:array([9921.586], dtype=float32)
+
+At B iteration 21|| Error:array([9921.546], dtype=float32)
+
+At B iteration 22|| Error:array([9921.503], dtype=float32)
+
+At B iteration 23|| Error:array([9921.463], dtype=float32)
+
+At B iteration 24|| Error:array([9921.424], dtype=float32)
+
+At B iteration 25|| Error:array([9921.382], dtype=float32)
+
+At B iteration 26|| Error:array([9921.343], dtype=float32)
+
+At B iteration 27|| Error:array([9921.303], dtype=float32)
+
+At B iteration 28|| Error:array([9921.262], dtype=float32)
+
+At B iteration 29|| Error:array([9921.225], dtype=float32)
+
+At B iteration 30|| Error:array([9921.185], dtype=float32)
+
+At B iteration 31|| Error:array([9921.145], dtype=float32)
+
+At B iteration 32|| Error:array([9921.105], dtype=float32)
+
+At B iteration 33|| Error:array([9921.068], dtype=float32)
+
+At B iteration 34|| Error:array([9921.031], dtype=float32)
+
+At B iteration 35|| Error:array([9920.99], dtype=float32)
+
+At B iteration 36|| Error:array([9920.953], dtype=float32)
+
+At B iteration 37|| Error:array([9920.917], dtype=float32)
+
+At B iteration 38|| Error:array([9920.876], dtype=float32)
+
+At B iteration 39|| Error:array([9920.84], dtype=float32)
+
+At B iteration 40|| Error:array([9920.801], dtype=float32)
+
+At B iteration 41|| Error:array([9920.764], dtype=float32)
+
+At B iteration 42|| Error:array([9920.728], dtype=float32)
+
+At B iteration 43|| Error:array([9920.69], dtype=float32)
+
+At B iteration 44|| Error:array([9920.655], dtype=float32)
+
+At B iteration 45|| Error:array([9920.618], dtype=float32)
+
+At B iteration 46|| Error:array([9920.584], dtype=float32)
+
+At B iteration 47|| Error:array([9920.546], dtype=float32)
+
+At B iteration 48|| Error:array([9920.51], dtype=float32)
+
+At B iteration 49|| Error:array([9920.476], dtype=float32)
+
+At B iteration 50|| Error:array([9920.44], dtype=float32)
+
+At B iteration 51|| Error:array([9920.405], dtype=float32)
+
+At B iteration 52|| Error:array([9920.372], dtype=float32)
+
+At B iteration 53|| Error:array([9920.334], dtype=float32)
+
+At B iteration 54|| Error:array([9920.299], dtype=float32)
+
+At B iteration 55|| Error:array([9920.267], dtype=float32)
+
+At B iteration 56|| Error:array([9920.231], dtype=float32)
+
+At B iteration 57|| Error:array([9920.198], dtype=float32)
+
+At B iteration 58|| Error:array([9920.164], dtype=float32)
+
+At B iteration 59|| Error:array([9920.128], dtype=float32)
+
+At B iteration 60|| Error:array([9920.093], dtype=float32)
+
+At B iteration 61|| Error:array([9920.062], dtype=float32)
+
+At B iteration 62|| Error:array([9920.027], dtype=float32)
+
+At B iteration 63|| Error:array([9919.993], dtype=float32)
+
+At B iteration 64|| Error:array([9919.963], dtype=float32)
+
+At B iteration 65|| Error:array([9919.93], dtype=float32)
+
+At B iteration 66|| Error:array([9919.898], dtype=float32)
+
+At B iteration 67|| Error:array([9919.862], dtype=float32)
+
+At B iteration 68|| Error:array([9919.831], dtype=float32)
+
+At B iteration 69|| Error:array([9919.799], dtype=float32)
+
+At B iteration 70|| Error:array([9919.768], dtype=float32)
+
+At B iteration 71|| Error:array([9919.735], dtype=float32)
+
+At B iteration 72|| Error:array([9919.703], dtype=float32)
+
+At B iteration 73|| Error:array([9919.67], dtype=float32)
+
+At B iteration 74|| Error:array([9919.642], dtype=float32)
+
+At B iteration 75|| Error:array([9919.61], dtype=float32)
+
+At B iteration 76|| Error:array([9919.579], dtype=float32)
+
+At B iteration 77|| Error:array([9919.546], dtype=float32)
+
+At B iteration 78|| Error:array([9919.519], dtype=float32)
+
+At B iteration 79|| Error:array([9919.487], dtype=float32)
+
+At B iteration 80|| Error:array([9919.454], dtype=float32)
+
+At B iteration 81|| Error:array([9919.425], dtype=float32)
+
+At B iteration 82|| Error:array([9919.3955], dtype=float32)
+
+At B iteration 83|| Error:array([9919.368], dtype=float32)
+
+At B iteration 84|| Error:array([9919.335], dtype=float32)
+
+At B iteration 85|| Error:array([9919.305], dtype=float32)
+
+At B iteration 86|| Error:array([9919.276], dtype=float32)
+
+At B iteration 87|| Error:array([9919.246], dtype=float32)
+
+At B iteration 88|| Error:array([9919.218], dtype=float32)
+
+At B iteration 89|| Error:array([9919.188], dtype=float32)
+
+At B iteration 90|| Error:array([9919.158], dtype=float32)
+
+At B iteration 91|| Error:array([9919.131], dtype=float32)
+
+At B iteration 92|| Error:array([9919.102], dtype=float32)
+
+At B iteration 93|| Error:array([9919.072], dtype=float32)
+
+At B iteration 94|| Error:array([9919.044], dtype=float32)
+
+At B iteration 95|| Error:array([9919.017], dtype=float32)
+
+At B iteration 96|| Error:array([9918.987], dtype=float32)
+
+At B iteration 97|| Error:array([9918.957], dtype=float32)
+
+At B iteration 98|| Error:array([9918.932], dtype=float32)
+
+At B iteration 99|| Error:array([9918.904], dtype=float32)
+
+ At final B iteration || Error: array([9918.904], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9967.291], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9747.409], dtype=float32)
+
+ Step D and lambda || Error: array([9747.086], dtype=float32)
+
+ At iteration12|| Error:array([9747.086], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9747.05], dtype=float32)
+
+At B iteration 1|| Error:array([9747.015], dtype=float32)
+
+At B iteration 2|| Error:array([9746.977], dtype=float32)
+
+At B iteration 3|| Error:array([9746.942], dtype=float32)
+
+At B iteration 4|| Error:array([9746.905], dtype=float32)
+
+At B iteration 5|| Error:array([9746.873], dtype=float32)
+
+At B iteration 6|| Error:array([9746.837], dtype=float32)
+
+At B iteration 7|| Error:array([9746.8], dtype=float32)
+
+At B iteration 8|| Error:array([9746.765], dtype=float32)
+
+At B iteration 9|| Error:array([9746.7295], dtype=float32)
+
+At B iteration 10|| Error:array([9746.696], dtype=float32)
+
+At B iteration 11|| Error:array([9746.663], dtype=float32)
+
+At B iteration 12|| Error:array([9746.626], dtype=float32)
+
+At B iteration 13|| Error:array([9746.593], dtype=float32)
+
+At B iteration 14|| Error:array([9746.559], dtype=float32)
+
+At B iteration 15|| Error:array([9746.525], dtype=float32)
+
+At B iteration 16|| Error:array([9746.491], dtype=float32)
+
+At B iteration 17|| Error:array([9746.459], dtype=float32)
+
+At B iteration 18|| Error:array([9746.424], dtype=float32)
+
+At B iteration 19|| Error:array([9746.392], dtype=float32)
+
+At B iteration 20|| Error:array([9746.357], dtype=float32)
+
+At B iteration 21|| Error:array([9746.323], dtype=float32)
+
+At B iteration 22|| Error:array([9746.292], dtype=float32)
+
+At B iteration 23|| Error:array([9746.26], dtype=float32)
+
+At B iteration 24|| Error:array([9746.23], dtype=float32)
+
+At B iteration 25|| Error:array([9746.196], dtype=float32)
+
+At B iteration 26|| Error:array([9746.163], dtype=float32)
+
+At B iteration 27|| Error:array([9746.13], dtype=float32)
+
+At B iteration 28|| Error:array([9746.101], dtype=float32)
+
+At B iteration 29|| Error:array([9746.066], dtype=float32)
+
+At B iteration 30|| Error:array([9746.038], dtype=float32)
+
+At B iteration 31|| Error:array([9746.007], dtype=float32)
+
+At B iteration 32|| Error:array([9745.975], dtype=float32)
+
+At B iteration 33|| Error:array([9745.943], dtype=float32)
+
+At B iteration 34|| Error:array([9745.912], dtype=float32)
+
+At B iteration 35|| Error:array([9745.88], dtype=float32)
+
+At B iteration 36|| Error:array([9745.852], dtype=float32)
+
+At B iteration 37|| Error:array([9745.819], dtype=float32)
+
+At B iteration 38|| Error:array([9745.791], dtype=float32)
+
+At B iteration 39|| Error:array([9745.759], dtype=float32)
+
+At B iteration 40|| Error:array([9745.729], dtype=float32)
+
+At B iteration 41|| Error:array([9745.698], dtype=float32)
+
+At B iteration 42|| Error:array([9745.669], dtype=float32)
+
+At B iteration 43|| Error:array([9745.642], dtype=float32)
+
+At B iteration 44|| Error:array([9745.612], dtype=float32)
+
+At B iteration 45|| Error:array([9745.584], dtype=float32)
+
+At B iteration 46|| Error:array([9745.553], dtype=float32)
+
+At B iteration 47|| Error:array([9745.524], dtype=float32)
+
+At B iteration 48|| Error:array([9745.496], dtype=float32)
+
+At B iteration 49|| Error:array([9745.467], dtype=float32)
+
+At B iteration 50|| Error:array([9745.438], dtype=float32)
+
+At B iteration 51|| Error:array([9745.411], dtype=float32)
+
+At B iteration 52|| Error:array([9745.383], dtype=float32)
+
+At B iteration 53|| Error:array([9745.3545], dtype=float32)
+
+At B iteration 54|| Error:array([9745.325], dtype=float32)
+
+At B iteration 55|| Error:array([9745.3], dtype=float32)
+
+At B iteration 56|| Error:array([9745.274], dtype=float32)
+
+At B iteration 57|| Error:array([9745.243], dtype=float32)
+
+At B iteration 58|| Error:array([9745.216], dtype=float32)
+
+At B iteration 59|| Error:array([9745.189], dtype=float32)
+
+At B iteration 60|| Error:array([9745.161], dtype=float32)
+
+At B iteration 61|| Error:array([9745.135], dtype=float32)
+
+At B iteration 62|| Error:array([9745.107], dtype=float32)
+
+At B iteration 63|| Error:array([9745.081], dtype=float32)
+
+At B iteration 64|| Error:array([9745.054], dtype=float32)
+
+At B iteration 65|| Error:array([9745.028], dtype=float32)
+
+At B iteration 66|| Error:array([9744.999], dtype=float32)
+
+At B iteration 67|| Error:array([9744.978], dtype=float32)
+
+At B iteration 68|| Error:array([9744.95], dtype=float32)
+
+At B iteration 69|| Error:array([9744.925], dtype=float32)
+
+At B iteration 70|| Error:array([9744.896], dtype=float32)
+
+At B iteration 71|| Error:array([9744.871], dtype=float32)
+
+At B iteration 72|| Error:array([9744.846], dtype=float32)
+
+At B iteration 73|| Error:array([9744.821], dtype=float32)
+
+At B iteration 74|| Error:array([9744.796], dtype=float32)
+
+At B iteration 75|| Error:array([9744.769], dtype=float32)
+
+At B iteration 76|| Error:array([9744.747], dtype=float32)
+
+At B iteration 77|| Error:array([9744.722], dtype=float32)
+
+At B iteration 78|| Error:array([9744.696], dtype=float32)
+
+At B iteration 79|| Error:array([9744.671], dtype=float32)
+
+At B iteration 80|| Error:array([9744.6455], dtype=float32)
+
+At B iteration 81|| Error:array([9744.623], dtype=float32)
+
+At B iteration 82|| Error:array([9744.598], dtype=float32)
+
+At B iteration 83|| Error:array([9744.571], dtype=float32)
+
+At B iteration 84|| Error:array([9744.549], dtype=float32)
+
+At B iteration 85|| Error:array([9744.522], dtype=float32)
+
+At B iteration 86|| Error:array([9744.503], dtype=float32)
+
+At B iteration 87|| Error:array([9744.477], dtype=float32)
+
+At B iteration 88|| Error:array([9744.452], dtype=float32)
+
+At B iteration 89|| Error:array([9744.43], dtype=float32)
+
+At B iteration 90|| Error:array([9744.405], dtype=float32)
+
+At B iteration 91|| Error:array([9744.385], dtype=float32)
+
+At B iteration 92|| Error:array([9744.357], dtype=float32)
+
+At B iteration 93|| Error:array([9744.336], dtype=float32)
+
+At B iteration 94|| Error:array([9744.3125], dtype=float32)
+
+At B iteration 95|| Error:array([9744.291], dtype=float32)
+
+At B iteration 96|| Error:array([9744.268], dtype=float32)
+
+At B iteration 97|| Error:array([9744.245], dtype=float32)
+
+At B iteration 98|| Error:array([9744.22], dtype=float32)
+
+At B iteration 99|| Error:array([9744.201], dtype=float32)
+
+ At final B iteration || Error: array([9744.201], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9817.026], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9777.188], dtype=float32)
+
+ Step D and lambda || Error: array([9777.108], dtype=float32)
+
+ At iteration13|| Error:array([9777.108], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9777.078], dtype=float32)
+
+At B iteration 1|| Error:array([9777.049], dtype=float32)
+
+At B iteration 2|| Error:array([9777.017], dtype=float32)
+
+At B iteration 3|| Error:array([9776.986], dtype=float32)
+
+At B iteration 4|| Error:array([9776.957], dtype=float32)
+
+At B iteration 5|| Error:array([9776.927], dtype=float32)
+
+At B iteration 6|| Error:array([9776.895], dtype=float32)
+
+At B iteration 7|| Error:array([9776.866], dtype=float32)
+
+At B iteration 8|| Error:array([9776.836], dtype=float32)
+
+At B iteration 9|| Error:array([9776.807], dtype=float32)
+
+At B iteration 10|| Error:array([9776.779], dtype=float32)
+
+At B iteration 11|| Error:array([9776.749], dtype=float32)
+
+At B iteration 12|| Error:array([9776.723], dtype=float32)
+
+At B iteration 13|| Error:array([9776.69], dtype=float32)
+
+At B iteration 14|| Error:array([9776.662], dtype=float32)
+
+At B iteration 15|| Error:array([9776.634], dtype=float32)
+
+At B iteration 16|| Error:array([9776.608], dtype=float32)
+
+At B iteration 17|| Error:array([9776.578], dtype=float32)
+
+At B iteration 18|| Error:array([9776.551], dtype=float32)
+
+At B iteration 19|| Error:array([9776.523], dtype=float32)
+
+At B iteration 20|| Error:array([9776.493], dtype=float32)
+
+At B iteration 21|| Error:array([9776.469], dtype=float32)
+
+At B iteration 22|| Error:array([9776.44], dtype=float32)
+
+At B iteration 23|| Error:array([9776.414], dtype=float32)
+
+At B iteration 24|| Error:array([9776.384], dtype=float32)
+
+At B iteration 25|| Error:array([9776.357], dtype=float32)
+
+At B iteration 26|| Error:array([9776.33], dtype=float32)
+
+At B iteration 27|| Error:array([9776.304], dtype=float32)
+
+At B iteration 28|| Error:array([9776.276], dtype=float32)
+
+At B iteration 29|| Error:array([9776.251], dtype=float32)
+
+At B iteration 30|| Error:array([9776.225], dtype=float32)
+
+At B iteration 31|| Error:array([9776.197], dtype=float32)
+
+At B iteration 32|| Error:array([9776.17], dtype=float32)
+
+At B iteration 33|| Error:array([9776.146], dtype=float32)
+
+At B iteration 34|| Error:array([9776.119], dtype=float32)
+
+At B iteration 35|| Error:array([9776.094], dtype=float32)
+
+At B iteration 36|| Error:array([9776.069], dtype=float32)
+
+At B iteration 37|| Error:array([9776.044], dtype=float32)
+
+At B iteration 38|| Error:array([9776.016], dtype=float32)
+
+At B iteration 39|| Error:array([9775.99], dtype=float32)
+
+At B iteration 40|| Error:array([9775.968], dtype=float32)
+
+At B iteration 41|| Error:array([9775.941], dtype=float32)
+
+At B iteration 42|| Error:array([9775.915], dtype=float32)
+
+At B iteration 43|| Error:array([9775.891], dtype=float32)
+
+At B iteration 44|| Error:array([9775.868], dtype=float32)
+
+At B iteration 45|| Error:array([9775.842], dtype=float32)
+
+At B iteration 46|| Error:array([9775.817], dtype=float32)
+
+At B iteration 47|| Error:array([9775.793], dtype=float32)
+
+At B iteration 48|| Error:array([9775.77], dtype=float32)
+
+At B iteration 49|| Error:array([9775.745], dtype=float32)
+
+At B iteration 50|| Error:array([9775.723], dtype=float32)
+
+At B iteration 51|| Error:array([9775.699], dtype=float32)
+
+At B iteration 52|| Error:array([9775.673], dtype=float32)
+
+At B iteration 53|| Error:array([9775.65], dtype=float32)
+
+At B iteration 54|| Error:array([9775.626], dtype=float32)
+
+At B iteration 55|| Error:array([9775.604], dtype=float32)
+
+At B iteration 56|| Error:array([9775.578], dtype=float32)
+
+At B iteration 57|| Error:array([9775.555], dtype=float32)
+
+At B iteration 58|| Error:array([9775.531], dtype=float32)
+
+At B iteration 59|| Error:array([9775.51], dtype=float32)
+
+At B iteration 60|| Error:array([9775.486], dtype=float32)
+
+At B iteration 61|| Error:array([9775.464], dtype=float32)
+
+At B iteration 62|| Error:array([9775.441], dtype=float32)
+
+At B iteration 63|| Error:array([9775.418], dtype=float32)
+
+At B iteration 64|| Error:array([9775.394], dtype=float32)
+
+At B iteration 65|| Error:array([9775.375], dtype=float32)
+
+At B iteration 66|| Error:array([9775.352], dtype=float32)
+
+At B iteration 67|| Error:array([9775.328], dtype=float32)
+
+At B iteration 68|| Error:array([9775.306], dtype=float32)
+
+At B iteration 69|| Error:array([9775.283], dtype=float32)
+
+At B iteration 70|| Error:array([9775.262], dtype=float32)
+
+At B iteration 71|| Error:array([9775.241], dtype=float32)
+
+At B iteration 72|| Error:array([9775.22], dtype=float32)
+
+At B iteration 73|| Error:array([9775.196], dtype=float32)
+
+At B iteration 74|| Error:array([9775.177], dtype=float32)
+
+At B iteration 75|| Error:array([9775.154], dtype=float32)
+
+At B iteration 76|| Error:array([9775.135], dtype=float32)
+
+At B iteration 77|| Error:array([9775.114], dtype=float32)
+
+At B iteration 78|| Error:array([9775.093], dtype=float32)
+
+At B iteration 79|| Error:array([9775.07], dtype=float32)
+
+At B iteration 80|| Error:array([9775.049], dtype=float32)
+
+At B iteration 81|| Error:array([9775.027], dtype=float32)
+
+At B iteration 82|| Error:array([9775.008], dtype=float32)
+
+At B iteration 83|| Error:array([9774.987], dtype=float32)
+
+At B iteration 84|| Error:array([9774.967], dtype=float32)
+
+At B iteration 85|| Error:array([9774.946], dtype=float32)
+
+At B iteration 86|| Error:array([9774.926], dtype=float32)
+
+At B iteration 87|| Error:array([9774.905], dtype=float32)
+
+At B iteration 88|| Error:array([9774.889], dtype=float32)
+
+At B iteration 89|| Error:array([9774.866], dtype=float32)
+
+At B iteration 90|| Error:array([9774.846], dtype=float32)
+
+At B iteration 91|| Error:array([9774.827], dtype=float32)
+
+At B iteration 92|| Error:array([9774.807], dtype=float32)
+
+At B iteration 93|| Error:array([9774.789], dtype=float32)
+
+At B iteration 94|| Error:array([9774.767], dtype=float32)
+
+At B iteration 95|| Error:array([9774.746], dtype=float32)
+
+At B iteration 96|| Error:array([9774.7295], dtype=float32)
+
+At B iteration 97|| Error:array([9774.708], dtype=float32)
+
+At B iteration 98|| Error:array([9774.689], dtype=float32)
+
+At B iteration 99|| Error:array([9774.672], dtype=float32)
+
+ At final B iteration || Error: array([9774.672], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9820.803], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9807.797], dtype=float32)
+
+ Step D and lambda || Error: array([9807.772], dtype=float32)
+
+
+ Exiting due to increase in function value, at iter13
+
+[[0.99550587 0.         0.         0.        ]
+ [0.         0.9969535  0.         0.        ]
+ [0.         0.         0.98260957 0.        ]
+ [0.         0.         0.         0.99882897]]
+[4;33mReloaded modules[24m: sklearn.preprocessing, scipy.sparse.linalg.isolve.minres, scipy.sparse.linalg.isolve.utils, scipy.special._spherical_bessel, scipy.optimize._trustregion_constr.tr_interior_point, scipy.sparse.linalg.dsolve.linsolve, scipy.sparse.linalg.isolve._iterative, scipy.linalg.decomp_cholesky, scipy.interpolate._cubic, scipy.integrate.quadpack, scipy.stats._discrete_distns, scipy.optimize._lsq.trf, scipy._lib._util, scipy._lib._threadsafety, scipy.spatial._procrustes, scipy.optimize._zeros, scipy._lib._ccallback, scipy.optimize.linesearch, scipy.stats.morestats, scipy.interpolate._fitpack, scipy.interpolate.interpolate, scipy.optimize._lsq.least_squares, scipy.special.lambertw, scipy.optimize._slsqp, sklearn.externals.joblib.hashing, scipy.optimize._minimize, scipy.optimize.cobyla, sklearn.preprocessing.label, scipy.interpolate._pade, scipy.sparse.csgraph._laplacian, scipy.linalg.linalg_version, scipy.integrate._ivp.base, scipy.optimize._minpack, numpy.matlib, scipy.optimize._spectral, sklearn.utils.sparsefuncs, scipy.optimize._trustregion_ncg, sklearn.utils.fixes, scipy.stats._distr_params, scipy.special._ellip_harm_2, sklearn.externals.joblib.pool, sklearn.exceptions, scipy.optimize._constraints, sklearn.preprocessing._function_transformer, scipy.optimize.slsqp, scipy.linalg.blas, scipy.sparse.bsr, scipy.sparse.linalg.eigen.arpack._arpack, scipy.sparse._sparsetools, scipy.special._logsumexp, scipy.sparse._csparsetools, scipy.stats._binned_statistic, scipy.io.idl, sklearn.externals.joblib.func_inspect, scipy.linalg.decomp_qr, scipy.stats.distributions, scipy.sparse.linalg._norm, sklearn, scipy.optimize._hessian_update_strategy, scipy.integrate._ivp.bdf, scipy.special.orthogonal, scipy.sparse.linalg.eigen.arpack, scipy.optimize.minpack2, scipy.sparse.construct, scipy.special.basic, scipy.linalg._expm_frechet, scipy.sparse.csgraph._min_spanning_tree, scipy.optimize._lsq.lsq_linear, scipy.integrate.quadrature, scipy.misc.doccer, scipy.sparse.linalg._onenormest, sklearn.externals.joblib.numpy_pickle, scipy.special.specfun, scipy.sparse.linalg.matfuncs, sklearn.__check_build, scipy.integrate._ode, scipy.interpolate.fitpack, scipy.misc, scipy.interpolate, scipy.optimize._root, scipy.linalg._fblas, scipy.__config__, scipy.sparse.dia, scipy.optimize._remove_redundancy, scipy.linalg.lapack, scipy.stats.mstats, sklearn.externals.joblib.parallel, scipy.interpolate.fitpack2, scipy.interpolate.rbf, scipy.sparse.linalg.eigen, scipy.stats.mstats_extras, scipy.linalg._decomp_ldl, sklearn.preprocessing.imputation, scipy.optimize.zeros, scipy.optimize._lbfgsb, scipy.interpolate._fitpack_impl, scipy.stats._multivariate, scipy._lib._testutils, scipy.linalg._solvers, scipy._lib._version, scipy.sparse, scipy.optimize.lbfgsb, scipy.sparse.linalg.isolve, scipy.linalg._flapack, scipy.interpolate._ppoly, scipy.optimize._trlib._trlib, scipy.special.spfun_stats, scipy.sparse.lil, scipy.interpolate._bspl, scipy.stats.mstats_basic, scipy.sparse.csc, sklearn.externals.joblib._memory_helpers, scipy.sparse.csgraph, scipy.integrate._odepack, scipy.sparse.csr, sklearn.__check_build._check_build, sklearn.externals.joblib._multiprocessing_helpers, scipy.integrate._dop, scipy.linalg._decomp_update, scipy.linalg.decomp_schur, scipy.special, scipy.io.matlab.miobase, scipy.spatial._spherical_voronoi, scipy.sparse.linalg.isolve.lsqr, scipy.spatial.ckdtree, sklearn.utils.murmurhash, scipy.sparse.coo, scipy.optimize.minpack, scipy.stats._stats_mstats_common, scipy.linalg.decomp_svd, sklearn.utils._logistic_sigmoid, scipy.spatial.distance, scipy.io.matlab.streams, scipy.optimize._linprog, scipy.special._ufuncs, scipy.linalg._solve_toeplitz, scipy.optimize._linprog_ip, scipy.sparse.csgraph._reordering, scipy.linalg._matfuncs_sqrtm, scipy.stats.contingency, scipy.stats.statlib, sklearn.utils.multiclass, sklearn.externals.six, scipy.linalg._decomp_polar, sklearn.utils.class_weight, scipy.optimize._cobyla, scipy.sparse._matrix_io, scipy.spatial.kdtree, scipy.stats._constants, sklearn.externals.joblib.my_exceptions, scipy.stats.stats, scipy.stats._t
