@@ -65245,3 +65245,5837 @@ Patient 4 Optimised
 Patient 5 Optimised 
 
 Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9586.48], dtype=float32)
+
+ Step D and lambda || Error: array([9586.542], dtype=float32)
+
+ At iteration410|| Error:array([9586.542], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9586.54], dtype=float32)
+
+At B iteration 1|| Error:array([9586.539], dtype=float32)
+
+At B iteration 2|| Error:array([9586.538], dtype=float32)
+
+At B iteration 3|| Error:array([9586.537], dtype=float32)
+
+At B iteration 4|| Error:array([9586.535], dtype=float32)
+
+At B iteration 5|| Error:array([9586.537], dtype=float32)
+
+ At final B iteration || Error: array([9586.537], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9586.535], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9586.535], dtype=float32)
+
+ Step D and lambda || Error: array([9586.594], dtype=float32)
+
+ At iteration411|| Error:array([9586.594], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9586.595], dtype=float32)
+
+At B iteration 1|| Error:array([9586.594], dtype=float32)
+
+At B iteration 2|| Error:array([9586.594], dtype=float32)
+
+At B iteration 3|| Error:array([9586.592], dtype=float32)
+
+At B iteration 4|| Error:array([9586.591], dtype=float32)
+
+At B iteration 5|| Error:array([9586.59], dtype=float32)
+
+At B iteration 6|| Error:array([9586.591], dtype=float32)
+
+ At final B iteration || Error: array([9586.591], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9586.59], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9585.916], dtype=float32)
+
+ Step D and lambda || Error: array([9585.951], dtype=float32)
+
+ At iteration412|| Error:array([9585.951], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9585.95], dtype=float32)
+
+At B iteration 1|| Error:array([9585.949], dtype=float32)
+
+At B iteration 2|| Error:array([9585.949], dtype=float32)
+
+At B iteration 3|| Error:array([9585.95], dtype=float32)
+
+ At final B iteration || Error: array([9585.95], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.247], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.195], dtype=float32)
+
+ Step D and lambda || Error: array([9588.252], dtype=float32)
+
+ At iteration413|| Error:array([9588.252], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.252], dtype=float32)
+
+At B iteration 1|| Error:array([9588.251], dtype=float32)
+
+At B iteration 2|| Error:array([9588.253], dtype=float32)
+
+ At final B iteration || Error: array([9588.253], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.516], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.382], dtype=float32)
+
+ Step D and lambda || Error: array([9588.439], dtype=float32)
+
+ At iteration414|| Error:array([9588.439], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.437], dtype=float32)
+
+At B iteration 1|| Error:array([9588.439], dtype=float32)
+
+At B iteration 2|| Error:array([9588.438], dtype=float32)
+
+At B iteration 3|| Error:array([9588.439], dtype=float32)
+
+ At final B iteration || Error: array([9588.439], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.286], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.278], dtype=float32)
+
+ Step D and lambda || Error: array([9588.335], dtype=float32)
+
+ At iteration415|| Error:array([9588.335], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.333], dtype=float32)
+
+At B iteration 1|| Error:array([9588.333], dtype=float32)
+
+At B iteration 2|| Error:array([9588.334], dtype=float32)
+
+ At final B iteration || Error: array([9588.334], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.319], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.319], dtype=float32)
+
+ Step D and lambda || Error: array([9588.378], dtype=float32)
+
+ At iteration416|| Error:array([9588.378], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.379], dtype=float32)
+
+At B iteration 1|| Error:array([9588.377], dtype=float32)
+
+At B iteration 2|| Error:array([9588.377], dtype=float32)
+
+At B iteration 3|| Error:array([9588.376], dtype=float32)
+
+At B iteration 4|| Error:array([9588.375], dtype=float32)
+
+At B iteration 5|| Error:array([9588.375], dtype=float32)
+
+At B iteration 6|| Error:array([9588.376], dtype=float32)
+
+ At final B iteration || Error: array([9588.376], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.302], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.503], dtype=float32)
+
+ Step D and lambda || Error: array([9588.561], dtype=float32)
+
+ At iteration417|| Error:array([9588.561], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.561], dtype=float32)
+
+At B iteration 1|| Error:array([9588.558], dtype=float32)
+
+At B iteration 2|| Error:array([9588.559], dtype=float32)
+
+ At final B iteration || Error: array([9588.559], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.63], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.625], dtype=float32)
+
+ Step D and lambda || Error: array([9588.686], dtype=float32)
+
+ At iteration418|| Error:array([9588.686], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.684], dtype=float32)
+
+At B iteration 1|| Error:array([9588.683], dtype=float32)
+
+At B iteration 2|| Error:array([9588.682], dtype=float32)
+
+At B iteration 3|| Error:array([9588.683], dtype=float32)
+
+ At final B iteration || Error: array([9588.683], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.607], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.56], dtype=float32)
+
+ Step D and lambda || Error: array([9588.618], dtype=float32)
+
+ At iteration419|| Error:array([9588.618], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.618], dtype=float32)
+
+At B iteration 1|| Error:array([9588.618], dtype=float32)
+
+At B iteration 2|| Error:array([9588.617], dtype=float32)
+
+At B iteration 3|| Error:array([9588.616], dtype=float32)
+
+At B iteration 4|| Error:array([9588.614], dtype=float32)
+
+At B iteration 5|| Error:array([9588.616], dtype=float32)
+
+ At final B iteration || Error: array([9588.616], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.549], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.544], dtype=float32)
+
+ Step D and lambda || Error: array([9588.604], dtype=float32)
+
+ At iteration420|| Error:array([9588.604], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.602], dtype=float32)
+
+At B iteration 1|| Error:array([9588.603], dtype=float32)
+
+At B iteration 2|| Error:array([9588.602], dtype=float32)
+
+At B iteration 3|| Error:array([9588.6], dtype=float32)
+
+At B iteration 4|| Error:array([9588.601], dtype=float32)
+
+ At final B iteration || Error: array([9588.601], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.605], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.6], dtype=float32)
+
+ Step D and lambda || Error: array([9588.658], dtype=float32)
+
+ At iteration421|| Error:array([9588.658], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.657], dtype=float32)
+
+At B iteration 1|| Error:array([9588.656], dtype=float32)
+
+At B iteration 2|| Error:array([9588.658], dtype=float32)
+
+ At final B iteration || Error: array([9588.658], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.649], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.646], dtype=float32)
+
+ Step D and lambda || Error: array([9588.703], dtype=float32)
+
+ At iteration422|| Error:array([9588.703], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.703], dtype=float32)
+
+At B iteration 1|| Error:array([9588.704], dtype=float32)
+
+At B iteration 2|| Error:array([9588.703], dtype=float32)
+
+At B iteration 3|| Error:array([9588.704], dtype=float32)
+
+ At final B iteration || Error: array([9588.704], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.748], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.747], dtype=float32)
+
+ Step D and lambda || Error: array([9588.802], dtype=float32)
+
+ At iteration423|| Error:array([9588.802], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.802], dtype=float32)
+
+At B iteration 1|| Error:array([9588.802], dtype=float32)
+
+At B iteration 2|| Error:array([9588.803], dtype=float32)
+
+ At final B iteration || Error: array([9588.803], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.804], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.8], dtype=float32)
+
+ Step D and lambda || Error: array([9588.857], dtype=float32)
+
+ At iteration424|| Error:array([9588.857], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.855], dtype=float32)
+
+At B iteration 1|| Error:array([9588.857], dtype=float32)
+
+At B iteration 2|| Error:array([9588.856], dtype=float32)
+
+At B iteration 3|| Error:array([9588.857], dtype=float32)
+
+ At final B iteration || Error: array([9588.857], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.864], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.864], dtype=float32)
+
+ Step D and lambda || Error: array([9588.922], dtype=float32)
+
+ At iteration425|| Error:array([9588.922], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.921], dtype=float32)
+
+At B iteration 1|| Error:array([9588.92], dtype=float32)
+
+At B iteration 2|| Error:array([9588.92], dtype=float32)
+
+At B iteration 3|| Error:array([9588.92], dtype=float32)
+
+At B iteration 4|| Error:array([9588.919], dtype=float32)
+
+At B iteration 5|| Error:array([9588.922], dtype=float32)
+
+ At final B iteration || Error: array([9588.922], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.936], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.934], dtype=float32)
+
+ Step D and lambda || Error: array([9588.992], dtype=float32)
+
+ At iteration426|| Error:array([9588.992], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9588.988], dtype=float32)
+
+At B iteration 1|| Error:array([9588.987], dtype=float32)
+
+At B iteration 2|| Error:array([9588.986], dtype=float32)
+
+At B iteration 3|| Error:array([9588.987], dtype=float32)
+
+ At final B iteration || Error: array([9588.987], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9588.989], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9588.987], dtype=float32)
+
+ Step D and lambda || Error: array([9589.048], dtype=float32)
+
+ At iteration427|| Error:array([9589.048], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.049], dtype=float32)
+
+At B iteration 1|| Error:array([9589.046], dtype=float32)
+
+At B iteration 2|| Error:array([9589.045], dtype=float32)
+
+At B iteration 3|| Error:array([9589.045], dtype=float32)
+
+At B iteration 4|| Error:array([9589.045], dtype=float32)
+
+At B iteration 5|| Error:array([9589.046], dtype=float32)
+
+ At final B iteration || Error: array([9589.046], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.07], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.072], dtype=float32)
+
+ Step D and lambda || Error: array([9589.133], dtype=float32)
+
+ At iteration428|| Error:array([9589.133], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.131], dtype=float32)
+
+At B iteration 1|| Error:array([9589.131], dtype=float32)
+
+At B iteration 2|| Error:array([9589.129], dtype=float32)
+
+At B iteration 3|| Error:array([9589.128], dtype=float32)
+
+At B iteration 4|| Error:array([9589.128], dtype=float32)
+
+At B iteration 5|| Error:array([9589.127], dtype=float32)
+
+At B iteration 6|| Error:array([9589.128], dtype=float32)
+
+ At final B iteration || Error: array([9589.128], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.133], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.132], dtype=float32)
+
+ Step D and lambda || Error: array([9589.193], dtype=float32)
+
+ At iteration429|| Error:array([9589.193], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.192], dtype=float32)
+
+At B iteration 1|| Error:array([9589.19], dtype=float32)
+
+At B iteration 2|| Error:array([9589.191], dtype=float32)
+
+ At final B iteration || Error: array([9589.191], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.195], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.193], dtype=float32)
+
+ Step D and lambda || Error: array([9589.25], dtype=float32)
+
+ At iteration430|| Error:array([9589.25], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.248], dtype=float32)
+
+At B iteration 1|| Error:array([9589.25], dtype=float32)
+
+At B iteration 2|| Error:array([9589.248], dtype=float32)
+
+At B iteration 3|| Error:array([9589.249], dtype=float32)
+
+ At final B iteration || Error: array([9589.249], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.285], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.281], dtype=float32)
+
+ Step D and lambda || Error: array([9589.341], dtype=float32)
+
+ At iteration431|| Error:array([9589.341], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.34], dtype=float32)
+
+At B iteration 1|| Error:array([9589.339], dtype=float32)
+
+At B iteration 2|| Error:array([9589.34], dtype=float32)
+
+ At final B iteration || Error: array([9589.34], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.369], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.369], dtype=float32)
+
+ Step D and lambda || Error: array([9589.427], dtype=float32)
+
+ At iteration432|| Error:array([9589.427], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.426], dtype=float32)
+
+At B iteration 1|| Error:array([9589.428], dtype=float32)
+
+At B iteration 2|| Error:array([9589.426], dtype=float32)
+
+At B iteration 3|| Error:array([9589.425], dtype=float32)
+
+At B iteration 4|| Error:array([9589.425], dtype=float32)
+
+At B iteration 5|| Error:array([9589.425], dtype=float32)
+
+At B iteration 6|| Error:array([9589.424], dtype=float32)
+
+At B iteration 7|| Error:array([9589.422], dtype=float32)
+
+At B iteration 8|| Error:array([9589.422], dtype=float32)
+
+At B iteration 9|| Error:array([9589.423], dtype=float32)
+
+ At final B iteration || Error: array([9589.423], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.423], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.421], dtype=float32)
+
+ Step D and lambda || Error: array([9589.48], dtype=float32)
+
+ At iteration433|| Error:array([9589.48], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.48], dtype=float32)
+
+At B iteration 1|| Error:array([9589.479], dtype=float32)
+
+At B iteration 2|| Error:array([9589.479], dtype=float32)
+
+At B iteration 3|| Error:array([9589.478], dtype=float32)
+
+At B iteration 4|| Error:array([9589.479], dtype=float32)
+
+ At final B iteration || Error: array([9589.479], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.501], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.499], dtype=float32)
+
+ Step D and lambda || Error: array([9589.558], dtype=float32)
+
+ At iteration434|| Error:array([9589.558], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.558], dtype=float32)
+
+At B iteration 1|| Error:array([9589.558], dtype=float32)
+
+At B iteration 2|| Error:array([9589.557], dtype=float32)
+
+At B iteration 3|| Error:array([9589.557], dtype=float32)
+
+At B iteration 4|| Error:array([9589.556], dtype=float32)
+
+At B iteration 5|| Error:array([9589.555], dtype=float32)
+
+At B iteration 6|| Error:array([9589.555], dtype=float32)
+
+At B iteration 7|| Error:array([9589.554], dtype=float32)
+
+At B iteration 8|| Error:array([9589.554], dtype=float32)
+
+At B iteration 9|| Error:array([9589.553], dtype=float32)
+
+At B iteration 10|| Error:array([9589.554], dtype=float32)
+
+ At final B iteration || Error: array([9589.554], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.579], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.58], dtype=float32)
+
+ Step D and lambda || Error: array([9589.639], dtype=float32)
+
+ At iteration435|| Error:array([9589.639], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.638], dtype=float32)
+
+At B iteration 1|| Error:array([9589.639], dtype=float32)
+
+At B iteration 2|| Error:array([9589.638], dtype=float32)
+
+At B iteration 3|| Error:array([9589.636], dtype=float32)
+
+At B iteration 4|| Error:array([9589.636], dtype=float32)
+
+At B iteration 5|| Error:array([9589.635], dtype=float32)
+
+At B iteration 6|| Error:array([9589.635], dtype=float32)
+
+At B iteration 7|| Error:array([9589.632], dtype=float32)
+
+At B iteration 8|| Error:array([9589.635], dtype=float32)
+
+ At final B iteration || Error: array([9589.635], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.666], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.664], dtype=float32)
+
+ Step D and lambda || Error: array([9589.725], dtype=float32)
+
+ At iteration436|| Error:array([9589.725], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.724], dtype=float32)
+
+At B iteration 1|| Error:array([9589.725], dtype=float32)
+
+At B iteration 2|| Error:array([9589.724], dtype=float32)
+
+At B iteration 3|| Error:array([9589.722], dtype=float32)
+
+At B iteration 4|| Error:array([9589.722], dtype=float32)
+
+At B iteration 5|| Error:array([9589.721], dtype=float32)
+
+At B iteration 6|| Error:array([9589.72], dtype=float32)
+
+At B iteration 7|| Error:array([9589.718], dtype=float32)
+
+At B iteration 8|| Error:array([9589.718], dtype=float32)
+
+At B iteration 9|| Error:array([9589.72], dtype=float32)
+
+ At final B iteration || Error: array([9589.72], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.735], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.732], dtype=float32)
+
+ Step D and lambda || Error: array([9589.793], dtype=float32)
+
+ At iteration437|| Error:array([9589.793], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.791], dtype=float32)
+
+At B iteration 1|| Error:array([9589.792], dtype=float32)
+
+At B iteration 2|| Error:array([9589.792], dtype=float32)
+
+At B iteration 3|| Error:array([9589.793], dtype=float32)
+
+ At final B iteration || Error: array([9589.793], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.802], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.8], dtype=float32)
+
+ Step D and lambda || Error: array([9589.856], dtype=float32)
+
+ At iteration438|| Error:array([9589.856], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.856], dtype=float32)
+
+At B iteration 1|| Error:array([9589.857], dtype=float32)
+
+At B iteration 2|| Error:array([9589.857], dtype=float32)
+
+At B iteration 3|| Error:array([9589.856], dtype=float32)
+
+At B iteration 4|| Error:array([9589.855], dtype=float32)
+
+At B iteration 5|| Error:array([9589.856], dtype=float32)
+
+ At final B iteration || Error: array([9589.856], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.873], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.871], dtype=float32)
+
+ Step D and lambda || Error: array([9589.928], dtype=float32)
+
+ At iteration439|| Error:array([9589.928], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.929], dtype=float32)
+
+At B iteration 1|| Error:array([9589.927], dtype=float32)
+
+At B iteration 2|| Error:array([9589.927], dtype=float32)
+
+At B iteration 3|| Error:array([9589.927], dtype=float32)
+
+At B iteration 4|| Error:array([9589.927], dtype=float32)
+
+At B iteration 5|| Error:array([9589.925], dtype=float32)
+
+At B iteration 6|| Error:array([9589.926], dtype=float32)
+
+ At final B iteration || Error: array([9589.926], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9589.931], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9589.928], dtype=float32)
+
+ Step D and lambda || Error: array([9589.985], dtype=float32)
+
+ At iteration440|| Error:array([9589.985], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9589.985], dtype=float32)
+
+At B iteration 1|| Error:array([9589.986], dtype=float32)
+
+At B iteration 2|| Error:array([9589.983], dtype=float32)
+
+At B iteration 3|| Error:array([9589.984], dtype=float32)
+
+ At final B iteration || Error: array([9589.984], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.008], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.007], dtype=float32)
+
+ Step D and lambda || Error: array([9590.066], dtype=float32)
+
+ At iteration441|| Error:array([9590.066], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.066], dtype=float32)
+
+At B iteration 1|| Error:array([9590.065], dtype=float32)
+
+At B iteration 2|| Error:array([9590.0625], dtype=float32)
+
+At B iteration 3|| Error:array([9590.063], dtype=float32)
+
+ At final B iteration || Error: array([9590.063], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.037], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.035], dtype=float32)
+
+ Step D and lambda || Error: array([9590.096], dtype=float32)
+
+ At iteration442|| Error:array([9590.096], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.096], dtype=float32)
+
+At B iteration 1|| Error:array([9590.095], dtype=float32)
+
+At B iteration 2|| Error:array([9590.093], dtype=float32)
+
+At B iteration 3|| Error:array([9590.094], dtype=float32)
+
+ At final B iteration || Error: array([9590.094], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.083], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.081], dtype=float32)
+
+ Step D and lambda || Error: array([9590.139], dtype=float32)
+
+ At iteration443|| Error:array([9590.139], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.139], dtype=float32)
+
+At B iteration 1|| Error:array([9590.139], dtype=float32)
+
+At B iteration 2|| Error:array([9590.14], dtype=float32)
+
+ At final B iteration || Error: array([9590.14], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.154], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.152], dtype=float32)
+
+ Step D and lambda || Error: array([9590.21], dtype=float32)
+
+ At iteration444|| Error:array([9590.21], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.211], dtype=float32)
+
+At B iteration 1|| Error:array([9590.21], dtype=float32)
+
+At B iteration 2|| Error:array([9590.21], dtype=float32)
+
+At B iteration 3|| Error:array([9590.211], dtype=float32)
+
+ At final B iteration || Error: array([9590.211], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.189], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.188], dtype=float32)
+
+ Step D and lambda || Error: array([9590.245], dtype=float32)
+
+ At iteration445|| Error:array([9590.245], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.244], dtype=float32)
+
+At B iteration 1|| Error:array([9590.245], dtype=float32)
+
+At B iteration 2|| Error:array([9590.245], dtype=float32)
+
+At B iteration 3|| Error:array([9590.244], dtype=float32)
+
+At B iteration 4|| Error:array([9590.245], dtype=float32)
+
+ At final B iteration || Error: array([9590.245], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.248], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.248], dtype=float32)
+
+ Step D and lambda || Error: array([9590.308], dtype=float32)
+
+ At iteration446|| Error:array([9590.308], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.305], dtype=float32)
+
+At B iteration 1|| Error:array([9590.304], dtype=float32)
+
+At B iteration 2|| Error:array([9590.305], dtype=float32)
+
+ At final B iteration || Error: array([9590.305], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.327], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.324], dtype=float32)
+
+ Step D and lambda || Error: array([9590.385], dtype=float32)
+
+ At iteration447|| Error:array([9590.385], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.386], dtype=float32)
+
+At B iteration 1|| Error:array([9590.384], dtype=float32)
+
+At B iteration 2|| Error:array([9590.384], dtype=float32)
+
+At B iteration 3|| Error:array([9590.381], dtype=float32)
+
+At B iteration 4|| Error:array([9590.383], dtype=float32)
+
+ At final B iteration || Error: array([9590.383], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.405], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.404], dtype=float32)
+
+ Step D and lambda || Error: array([9590.462], dtype=float32)
+
+ At iteration448|| Error:array([9590.462], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.461], dtype=float32)
+
+At B iteration 1|| Error:array([9590.463], dtype=float32)
+
+At B iteration 2|| Error:array([9590.461], dtype=float32)
+
+At B iteration 3|| Error:array([9590.459], dtype=float32)
+
+At B iteration 4|| Error:array([9590.459], dtype=float32)
+
+At B iteration 5|| Error:array([9590.46], dtype=float32)
+
+ At final B iteration || Error: array([9590.46], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.471], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.472], dtype=float32)
+
+ Step D and lambda || Error: array([9590.531], dtype=float32)
+
+ At iteration449|| Error:array([9590.531], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.531], dtype=float32)
+
+At B iteration 1|| Error:array([9590.529], dtype=float32)
+
+At B iteration 2|| Error:array([9590.532], dtype=float32)
+
+ At final B iteration || Error: array([9590.532], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.527], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.526], dtype=float32)
+
+ Step D and lambda || Error: array([9590.582], dtype=float32)
+
+ At iteration450|| Error:array([9590.582], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.582], dtype=float32)
+
+At B iteration 1|| Error:array([9590.582], dtype=float32)
+
+At B iteration 2|| Error:array([9590.58], dtype=float32)
+
+At B iteration 3|| Error:array([9590.582], dtype=float32)
+
+ At final B iteration || Error: array([9590.582], dtype=float32)
+Optimise C and weights 
+
+ Step W || Error: array([9590.591], dtype=float32)
+
+Patient 0 Optimised 
+
+Patient 1 Optimised 
+
+Patient 2 Optimised 
+
+Patient 3 Optimised 
+
+Patient 4 Optimised 
+
+Patient 5 Optimised 
+
+Patient 6 Optimised 
+
+Patient 7 Optimised 
+
+Patient 8 Optimised 
+
+Patient 9 Optimised 
+
+Patient 10 Optimised 
+
+Patient 11 Optimised 
+
+Patient 12 Optimised 
+
+Patient 13 Optimised 
+
+Patient 14 Optimised 
+
+Patient 15 Optimised 
+
+Patient 16 Optimised 
+
+Patient 17 Optimised 
+
+Patient 18 Optimised 
+
+Patient 19 Optimised 
+
+Patient 20 Optimised 
+
+Patient 21 Optimised 
+
+Patient 22 Optimised 
+
+Patient 23 Optimised 
+
+Patient 24 Optimised 
+
+Patient 25 Optimised 
+
+Patient 26 Optimised 
+
+Patient 27 Optimised 
+
+Patient 28 Optimised 
+
+Patient 29 Optimised 
+
+Patient 30 Optimised 
+
+Patient 31 Optimised 
+
+Patient 32 Optimised 
+
+Patient 33 Optimised 
+
+Patient 34 Optimised 
+
+Patient 35 Optimised 
+
+Patient 36 Optimised 
+
+Patient 37 Optimised 
+
+Patient 38 Optimised 
+
+Patient 39 Optimised 
+
+Patient 40 Optimised 
+
+Patient 41 Optimised 
+
+Patient 42 Optimised 
+
+Patient 43 Optimised 
+
+Patient 44 Optimised 
+
+Patient 45 Optimised 
+
+Patient 46 Optimised 
+
+Patient 47 Optimised 
+
+Patient 48 Optimised 
+
+Patient 49 Optimised 
+
+Patient 50 Optimised 
+
+Patient 51 Optimised 
+
+Patient 52 Optimised 
+
+Patient 53 Optimised 
+
+Patient 54 Optimised 
+
+Patient 55 Optimised 
+
+Patient 56 Optimised 
+
+Patient 57 Optimised 
+
+ Step C || Error: array([9590.59], dtype=float32)
+
+ Step D and lambda || Error: array([9590.647], dtype=float32)
+
+ At iteration451|| Error:array([9590.647], dtype=float32)
+
+Optimise B 
+
+At B iteration 0|| Error:array([9590.646], dtype=float32)
+
+At B iteration 1|| Error:array([9590.646], dtype=float32)
+
+At B iteration 2|| Error:array([9590.646], dtype=float32)
+
+At B iteration 3|| Error:array([9590.646], dtype=float32)
+
+At B iteration 4|| Error:array([9590.646], dtype=float32)
+
+At B iteration 5|| Error:array([9590.6455], dtype=float32)
+
+At B iteration 6|| Error:array([9590.645], dtype=float32)
+
+At B iteration 7|| Error:array([9590.644], dtype=float32)
+
+At B iteration 8|| Error:array([9590.643], dtype=float32)
+
+At B iteration 9|| Error:array([9590.644], dtype=float32)
+
+ At final B iteration || Error: array([9590.644], dtype=float32)
+Optimise C and weight
